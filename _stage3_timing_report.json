@@ -1,0 +1,4107 @@
+{
+  "version": 1,
+  "page_count": 211,
+  "total_page_seconds": 640.4137,
+  "average_page_seconds": 3.0351,
+  "phase_totals_seconds": {
+    "internal_links": 270.8358,
+    "monetization": 153.9258,
+    "content_assembly": 94.2624,
+    "media_svg": 79.4523,
+    "youtube": 21.6937,
+    "quality_write": 9.0175,
+    "content_cleanup_final": 6.4045,
+    "preparation": 4.6975,
+    "content_cleanup_initial": 0.1254
+  },
+  "slowest_pages": [
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_continuing_bonds_dea_a5e546",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.7807,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.3446,
+        "content_cleanup_final": 0.0389,
+        "media_svg": 0.8079,
+        "youtube": 0.0112,
+        "content_assembly": 0.3895,
+        "monetization": 7.1471,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_ghost_tourism_reputa_868c2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.9971,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2112,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.3515,
+        "youtube": 0.0118,
+        "content_assembly": 0.439,
+        "monetization": 6.8918,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_white_lady_legends_a3364d_ordsall_white_lady_c2270b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.4167,
+      "phases": {
+        "preparation": 0.0539,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2631,
+        "content_cleanup_final": 0.0285,
+        "media_svg": 0.3875,
+        "youtube": 0.0153,
+        "content_assembly": 0.4228,
+        "monetization": 6.2092,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.809,
+      "phases": {
+        "preparation": 0.029,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2691,
+        "content_cleanup_final": 0.0378,
+        "media_svg": 0.1869,
+        "youtube": 4.0055,
+        "content_assembly": 0.8048,
+        "monetization": 1.3851,
+        "quality_write": 0.0899
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_enfield_poltergeist_736114_bill_wilkins_voice_ffedb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7274,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2037,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.3476,
+        "youtube": 0.0165,
+        "content_assembly": 0.4333,
+        "monetization": 5.6101,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e_abandoned_haunted_la_c56bd5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.4644,
+      "phases": {
+        "preparation": 0.0287,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6176,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.5264,
+        "youtube": 0.0179,
+        "content_assembly": 0.4934,
+        "monetization": 4.7198,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c_co_warning_symptoms_d9fa33",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0241,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3075,
+        "content_cleanup_final": 0.0395,
+        "media_svg": 0.3606,
+        "youtube": 0.0142,
+        "content_assembly": 0.4421,
+        "monetization": 4.7847,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e_sheffield_lodge_appa_bf501c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0201,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1407,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.3688,
+        "youtube": 0.0169,
+        "content_assembly": 0.4194,
+        "monetization": 4.9915,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_old_buildings_0a3234_old_building_hauntin_0e7d9b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.9838,
+      "phases": {
+        "preparation": 0.0245,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1383,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.3306,
+        "youtube": 0.0121,
+        "content_assembly": 0.4079,
+        "monetization": 4.9979,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_infrasound_7e4338",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8586,
+      "phases": {
+        "preparation": 0.0467,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.2929,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 0.1491,
+        "youtube": 2.5601,
+        "content_assembly": 0.5302,
+        "monetization": 1.1826,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sleep_paralysis_1fa85e_stress_sleep_loss_tr_73f5dd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6722,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4128,
+        "content_cleanup_final": 0.0351,
+        "media_svg": 0.3685,
+        "youtube": 0.011,
+        "content_assembly": 0.4725,
+        "monetization": 4.314,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_tourist_haunts_14de67_edinburgh_vaults_gho_d94a29",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6561,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2432,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 0.3601,
+        "youtube": 0.0158,
+        "content_assembly": 0.5006,
+        "monetization": 4.4421,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_rees_widowhood_study_05990c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.5517,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1732,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.8734,
+        "youtube": 0.0161,
+        "content_assembly": 0.3937,
+        "monetization": 4.0272,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0_conjuring_fraud_chec_5ea931",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.5488,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1505,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.9289,
+        "youtube": 0.0198,
+        "content_assembly": 0.3929,
+        "monetization": 3.9961,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e_ghost_walks_local_me_502dca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4197,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3438,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.3559,
+        "youtube": 0.0126,
+        "content_assembly": 0.3996,
+        "monetization": 4.228,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_memory_conformity_ha_ad49e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3287,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3203,
+        "content_cleanup_final": 0.0358,
+        "media_svg": 0.346,
+        "youtube": 4.1003,
+        "content_assembly": 0.411,
+        "monetization": 0.058,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0_cambridge_spr_archiv_034bad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.2424,
+      "phases": {
+        "preparation": 0.0348,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4122,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.4927,
+        "youtube": 0.0201,
+        "content_assembly": 0.4794,
+        "monetization": 3.7284,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a_carbon_monoxide_haun_959035",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9851,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2341,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.8091,
+        "youtube": 0.0114,
+        "content_assembly": 0.3871,
+        "monetization": 3.4886,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a_loft_pests_scratchin_1f21a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9419,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1508,
+        "content_cleanup_final": 0.0363,
+        "media_svg": 0.8613,
+        "youtube": 0.0168,
+        "content_assembly": 0.4254,
+        "monetization": 3.4118,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_borley_rectory_76d632_borley_natural_expla_1da4c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9002,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2156,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.384,
+        "youtube": 0.0133,
+        "content_assembly": 0.4495,
+        "monetization": 3.7583,
+        "quality_write": 0.0332
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "hauntings_b4cf37",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.809,
+      "phases": {
+        "preparation": 0.029,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2691,
+        "content_cleanup_final": 0.0378,
+        "media_svg": 0.1869,
+        "youtube": 4.0055,
+        "content_assembly": 0.8048,
+        "monetization": 1.3851,
+        "quality_write": 0.0899
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_infrasound_7e4338",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8586,
+      "phases": {
+        "preparation": 0.0467,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.2929,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 0.1491,
+        "youtube": 2.5601,
+        "content_assembly": 0.5302,
+        "monetization": 1.1826,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8195,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.6491,
+        "content_cleanup_final": 0.1017,
+        "media_svg": 0.1569,
+        "youtube": 0.0225,
+        "content_assembly": 0.7581,
+        "monetization": 0.0587,
+        "quality_write": 0.0713
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_photos_f51bed",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3199,
+      "phases": {
+        "preparation": 0.0918,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4189,
+        "content_cleanup_final": 0.036,
+        "media_svg": 0.1134,
+        "youtube": 0.0165,
+        "content_assembly": 0.5372,
+        "monetization": 0.059,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_harry_price_1ff1de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8423,
+      "phases": {
+        "preparation": 0.0387,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.3964,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 0.1338,
+        "youtube": 2.4032,
+        "content_assembly": 0.5359,
+        "monetization": 1.2543,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1729,
+      "phases": {
+        "preparation": 0.0462,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.3216,
+        "content_cleanup_final": 0.0446,
+        "media_svg": 0.0781,
+        "youtube": 0.0111,
+        "content_assembly": 0.5486,
+        "monetization": 0.0602,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_old_buildings_0a3234",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0918,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2486,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 0.117,
+        "youtube": 0.0097,
+        "content_assembly": 0.5479,
+        "monetization": 0.0596,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_belief_surveys_cab802",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.228,
+      "phases": {
+        "preparation": 0.0756,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3003,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 0.0772,
+        "youtube": 0.0106,
+        "content_assembly": 0.5835,
+        "monetization": 0.0915,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_borley_rectory_76d632",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1933,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2787,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.1484,
+        "youtube": 0.0106,
+        "content_assembly": 0.5649,
+        "monetization": 0.0862,
+        "quality_write": 0.048
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_evp_recordings_9ee0fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1758,
+      "phases": {
+        "preparation": 0.0363,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2312,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.1122,
+        "youtube": 0.0157,
+        "content_assembly": 0.6228,
+        "monetization": 0.0816,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_haunted_sounds_ecf02f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1495,
+      "phases": {
+        "preparation": 0.0308,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3122,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 0.1049,
+        "youtube": 0.0187,
+        "content_assembly": 0.5446,
+        "monetization": 0.0642,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2574,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3369,
+        "content_cleanup_final": 0.0385,
+        "media_svg": 0.1233,
+        "youtube": 0.0112,
+        "content_assembly": 0.6119,
+        "monetization": 0.0608,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_tourist_haunts_14de67",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2556,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3826,
+        "content_cleanup_final": 0.0557,
+        "media_svg": 0.0739,
+        "youtube": 0.015,
+        "content_assembly": 0.5684,
+        "monetization": 0.0712,
+        "quality_write": 0.0599
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_violent_deaths_9693fc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1498,
+      "phases": {
+        "preparation": 0.0377,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2931,
+        "content_cleanup_final": 0.0352,
+        "media_svg": 0.0722,
+        "youtube": 0.0148,
+        "content_assembly": 0.5716,
+        "monetization": 0.0733,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2667,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.342,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.0846,
+        "youtube": 0.0162,
+        "content_assembly": 0.6368,
+        "monetization": 0.0683,
+        "quality_write": 0.0635
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_child_witnesses_734eb4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1839,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3261,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.0693,
+        "youtube": 0.0214,
+        "content_assembly": 0.5827,
+        "monetization": 0.0558,
+        "quality_write": 0.07
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_everyday_haunts_46fbc2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3967,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.296,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 0.4041,
+        "youtube": 0.0096,
+        "content_assembly": 0.5391,
+        "monetization": 0.0583,
+        "quality_write": 0.0566
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sensed_presence_fef880",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0977,
+      "phases": {
+        "preparation": 0.0354,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3279,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.0581,
+        "youtube": 0.0107,
+        "content_assembly": 0.5211,
+        "monetization": 0.0613,
+        "quality_write": 0.0593
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sleep_paralysis_1fa85e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3365,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3797,
+        "content_cleanup_final": 0.0541,
+        "media_svg": 0.1128,
+        "youtube": 0.0102,
+        "content_assembly": 0.6275,
+        "monetization": 0.0707,
+        "quality_write": 0.0489
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2975,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.341,
+        "content_cleanup_final": 0.0454,
+        "media_svg": 0.1555,
+        "youtube": 0.018,
+        "content_assembly": 0.5835,
+        "monetization": 0.0772,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2202,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.3358,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 0.1372,
+        "youtube": 0.0133,
+        "content_assembly": 0.5839,
+        "monetization": 0.0616,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1015,
+      "phases": {
+        "preparation": 0.0329,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2943,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.068,
+        "youtube": 0.0116,
+        "content_assembly": 0.5463,
+        "monetization": 0.071,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_poltergeist_claims_6ad8be",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2833,
+      "phases": {
+        "preparation": 0.0333,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3543,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.1375,
+        "youtube": 0.0148,
+        "content_assembly": 0.5956,
+        "monetization": 0.0704,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3759,
+      "phases": {
+        "preparation": 0.0396,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.3889,
+        "content_cleanup_final": 0.0548,
+        "media_svg": 0.1126,
+        "youtube": 0.0161,
+        "content_assembly": 0.6428,
+        "monetization": 0.0694,
+        "quality_write": 0.0505
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_white_lady_legends_a3364d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1006,
+      "phases": {
+        "preparation": 0.024,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2558,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.1076,
+        "youtube": 0.0112,
+        "content_assembly": 0.5692,
+        "monetization": 0.0613,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_enfield_poltergeist_736114",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0681,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2717,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 0.1116,
+        "youtube": 0.0184,
+        "content_assembly": 0.5134,
+        "monetization": 0.057,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_hunting_tools_ef37fb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.248,
+      "phases": {
+        "preparation": 0.0246,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3052,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 0.1287,
+        "youtube": 0.0174,
+        "content_assembly": 0.625,
+        "monetization": 0.0751,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_apparitions_percepti_1f52cf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3303,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.3657,
+        "content_cleanup_final": 0.0505,
+        "media_svg": 0.117,
+        "youtube": 0.0104,
+        "content_assembly": 0.6295,
+        "monetization": 0.0705,
+        "quality_write": 0.059
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_cold_spots_atmospher_629401",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.298,
+      "phases": {
+        "preparation": 0.0327,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3591,
+        "content_cleanup_final": 0.0448,
+        "media_svg": 0.1543,
+        "youtube": 0.0126,
+        "content_assembly": 0.5839,
+        "monetization": 0.0581,
+        "quality_write": 0.0519
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1847,
+      "phases": {
+        "preparation": 0.0434,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3334,
+        "content_cleanup_final": 0.0311,
+        "media_svg": 0.0834,
+        "youtube": 0.0147,
+        "content_assembly": 0.5211,
+        "monetization": 0.0898,
+        "quality_write": 0.067
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1451,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3117,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.0661,
+        "youtube": 0.0168,
+        "content_assembly": 0.545,
+        "monetization": 0.0893,
+        "quality_write": 0.0601
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_photos_f51bed_ghost_photo_orbs_de3341",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2219,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.2736,
+        "content_cleanup_final": 0.0293,
+        "media_svg": 0.375,
+        "youtube": 0.0121,
+        "content_assembly": 0.4136,
+        "monetization": 0.06,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a_damp_mould_unease_026f59",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0703,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.3442,
+        "content_cleanup_final": 0.0414,
+        "media_svg": 0.9682,
+        "youtube": 0.0233,
+        "content_assembly": 0.5988,
+        "monetization": 0.0544,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_infrasound_7e4338_fear_frequency_myth_e1eb1c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5798,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5304,
+        "content_cleanup_final": 0.0329,
+        "media_svg": 0.3835,
+        "youtube": 0.0117,
+        "content_assembly": 0.4199,
+        "monetization": 0.1254,
+        "quality_write": 0.0479
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_cold_spots_atmospher_629401_phantosmia_5515b6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5999,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5441,
+        "content_cleanup_final": 0.0488,
+        "media_svg": 0.3683,
+        "youtube": 0.0199,
+        "content_assembly": 0.4636,
+        "monetization": 0.0907,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_haunted_sounds_ecf02f_answering_knocks_39ddcb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2552,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2781,
+        "content_cleanup_final": 0.03,
+        "media_svg": 0.375,
+        "youtube": 0.0328,
+        "content_assembly": 0.4162,
+        "monetization": 0.0729,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_hoaxes_fraud_6bb26d_spirit_photo_fraud_0e2240",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2684,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3055,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.3527,
+        "youtube": 0.0144,
+        "content_assembly": 0.4221,
+        "monetization": 0.0668,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_infrasound_7e4338_artificial_haunt_roo_f147a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2383,
+      "phases": {
+        "preparation": 0.0246,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2637,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.3916,
+        "youtube": 0.023,
+        "content_assembly": 0.398,
+        "monetization": 0.0701,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_infrasound_7e4338_boilers_fans_haunted_9291c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2762,
+      "phases": {
+        "preparation": 0.0275,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.21,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.3542,
+        "youtube": 0.0134,
+        "content_assembly": 0.4732,
+        "monetization": 0.1358,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_infrasound_7e4338_checking_low_frequen_007782",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4119,
+      "phases": {
+        "preparation": 0.0312,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3052,
+        "content_cleanup_final": 0.0425,
+        "media_svg": 0.3778,
+        "youtube": 0.0158,
+        "content_assembly": 0.4349,
+        "monetization": 0.1677,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_infrasound_7e4338_infrasound_hidden_ir_47e3db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4808,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3643,
+        "content_cleanup_final": 0.0382,
+        "media_svg": 0.3557,
+        "youtube": 0.0133,
+        "content_assembly": 0.5226,
+        "monetization": 0.1145,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_infrasound_7e4338_tandy_19hz_lab_ghost_4c192a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2006,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2006,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.3667,
+        "youtube": 0.0114,
+        "content_assembly": 0.4238,
+        "monetization": 0.1028,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_belief_surveys_cab802_ghost_tour_appeal_b4ee33",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4904,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4044,
+        "content_cleanup_final": 0.0344,
+        "media_svg": 0.3752,
+        "youtube": 0.0111,
+        "content_assembly": 0.4341,
+        "monetization": 0.1437,
+        "quality_write": 0.0568
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_harry_price_1ff1de_borley_observer_sche_e058ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.151,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2059,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.3732,
+        "youtube": 0.01,
+        "content_assembly": 0.4152,
+        "monetization": 0.067,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_harry_price_1ff1de_borley_physical_trac_ac1a12",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1311,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2316,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.3542,
+        "youtube": 0.009,
+        "content_assembly": 0.405,
+        "monetization": 0.0572,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_harry_price_1ff1de_borley_publicity_pro_5bf6b4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2705,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3059,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 0.351,
+        "youtube": 0.0103,
+        "content_assembly": 0.4407,
+        "monetization": 0.0572,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_harry_price_1ff1de_foyster_witness_prob_751593",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2695,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2965,
+        "content_cleanup_final": 0.0131,
+        "media_svg": 0.4,
+        "youtube": 0.0112,
+        "content_assembly": 0.394,
+        "monetization": 0.0899,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_harry_price_1ff1de_price_library_lab_au_aeeb3e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4366,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3137,
+        "content_cleanup_final": 0.0459,
+        "media_svg": 0.3973,
+        "youtube": 0.0183,
+        "content_assembly": 0.4195,
+        "monetization": 0.1646,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_haunted_sounds_ecf02f_infrasound_unease_50c1f5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3075,
+      "phases": {
+        "preparation": 0.0374,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.3766,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.3416,
+        "youtube": 0.0125,
+        "content_assembly": 0.4038,
+        "monetization": 0.0713,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_harry_price_1ff1de_william_hope_exposur_0bdc51",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6625,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.2584,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.369,
+        "youtube": 0.0115,
+        "content_assembly": 0.4063,
+        "monetization": 2.541,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a_flickering_lights_wi_bc0273",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5805,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.195,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.8155,
+        "youtube": 0.0116,
+        "content_assembly": 0.4076,
+        "monetization": 0.0556,
+        "quality_write": 0.0612
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a_house_noises_footste_1d271c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4138,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1682,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.6921,
+        "youtube": 0.0113,
+        "content_assembly": 0.416,
+        "monetization": 0.058,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a_carbon_monoxide_haun_959035",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9851,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2341,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.8091,
+        "youtube": 0.0114,
+        "content_assembly": 0.3871,
+        "monetization": 3.4886,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a_sleep_paralysis_bedr_714254",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5671,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.214,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.8593,
+        "youtube": 0.0112,
+        "content_assembly": 0.3618,
+        "monetization": 0.0557,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_home_checks_62807a_loft_pests_scratchin_1f21a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9419,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1508,
+        "content_cleanup_final": 0.0363,
+        "media_svg": 0.8613,
+        "youtube": 0.0168,
+        "content_assembly": 0.4254,
+        "monetization": 3.4118,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sleep_paralysis_1fa85e_old_hag_folklore_92ef81",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3183,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2227,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.3494,
+        "youtube": 2.1386,
+        "content_assembly": 0.4343,
+        "monetization": 0.0837,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_cold_spots_atmospher_629401_musty_smells_e00acc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1392,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1956,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.3276,
+        "youtube": 0.0185,
+        "content_assembly": 0.4362,
+        "monetization": 0.0713,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_photos_f51bed_faces_in_ghost_photo_114deb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3572,
+      "phases": {
+        "preparation": 0.0341,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.3544,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.38,
+        "youtube": 0.013,
+        "content_assembly": 0.4442,
+        "monetization": 0.0636,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_photos_f51bed_mist_vapour_ghost_ph_435f40",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3003,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2684,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3454,
+        "youtube": 0.0165,
+        "content_assembly": 0.4414,
+        "monetization": 0.1498,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_photos_f51bed_motion_blur_appariti_8b0a5a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2292,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2552,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.3776,
+        "youtube": 0.0134,
+        "content_assembly": 0.4511,
+        "monetization": 0.0566,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_photos_f51bed_spirit_photography_f_1a45ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.354,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.421,
+        "content_cleanup_final": 0.0329,
+        "media_svg": 0.359,
+        "youtube": 0.0111,
+        "content_assembly": 0.4092,
+        "monetization": 0.056,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_hoaxes_fraud_6bb26d_borley_reputation_fr_2079b1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3429,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.385,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.3789,
+        "youtube": 0.0131,
+        "content_assembly": 0.4211,
+        "monetization": 0.0652,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_photos_f51bed_reflection_ghost_fig_e26aa2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7553,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3525,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 0.3788,
+        "youtube": 0.0128,
+        "content_assembly": 0.4416,
+        "monetization": 1.477,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_hoaxes_fraud_6bb26d_enfield_partial_hoax_5d7e65",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1533,
+      "phases": {
+        "preparation": 0.0293,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1837,
+        "content_cleanup_final": 0.0372,
+        "media_svg": 0.3767,
+        "youtube": 0.0086,
+        "content_assembly": 0.408,
+        "monetization": 0.0558,
+        "quality_write": 0.0534
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_hoaxes_fraud_6bb26d_haunted_object_custo_dd07aa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1272,
+      "phases": {
+        "preparation": 0.0286,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.1991,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.3614,
+        "youtube": 0.0107,
+        "content_assembly": 0.4113,
+        "monetization": 0.0537,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_hoaxes_fraud_6bb26d_ghost_voice_trickery_655a2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8934,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.183,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.3545,
+        "youtube": 0.0219,
+        "content_assembly": 0.4161,
+        "monetization": 1.8187,
+        "quality_write": 0.0576
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_hoaxes_fraud_6bb26d_haunting_memory_embe_418139",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.247,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2668,
+        "content_cleanup_final": 0.0333,
+        "media_svg": 0.3498,
+        "youtube": 0.0119,
+        "content_assembly": 0.4611,
+        "monetization": 0.0616,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_old_buildings_0a3234_old_building_creepy_d4199b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4154,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4858,
+        "content_cleanup_final": 0.043,
+        "media_svg": 0.3816,
+        "youtube": 0.0125,
+        "content_assembly": 0.3702,
+        "monetization": 0.0688,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sensed_presence_fef880_watchful_presence_29e4b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4605,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4821,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.3811,
+        "youtube": 0.0176,
+        "content_assembly": 0.418,
+        "monetization": 0.0651,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_cold_spots_atmospher_629401_cold_draughts_7c618d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1775,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2949,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.3473,
+        "youtube": 0.0154,
+        "content_assembly": 0.3813,
+        "monetization": 0.0541,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_haunted_sounds_ecf02f_enfield_knocks_case_a5c904",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.062,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1669,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.3508,
+        "youtube": 0.0175,
+        "content_assembly": 0.376,
+        "monetization": 0.0624,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_borley_rectory_76d632_daily_mirror_borley_b979e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1137,
+      "phases": {
+        "preparation": 0.0499,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3984,
+        "content_cleanup_final": 0.0319,
+        "media_svg": 0.3877,
+        "youtube": 0.0115,
+        "content_assembly": 0.44,
+        "monetization": 2.759,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_old_buildings_0a3234_anne_boleyn_tower_ha_b19b23",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2436,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1614,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.3353,
+        "youtube": 0.0123,
+        "content_assembly": 0.4357,
+        "monetization": 2.2315,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_old_buildings_0a3234_gothic_ruins_haunted_b69855",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5764,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2621,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.3468,
+        "youtube": 0.0104,
+        "content_assembly": 0.3905,
+        "monetization": 1.4822,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_old_buildings_0a3234_haunted_hotels_guest_d4a57d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9877,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2617,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.3458,
+        "youtube": 0.0106,
+        "content_assembly": 0.3592,
+        "monetization": 2.9095,
+        "quality_write": 0.0554
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_old_buildings_0a3234_sacred_ruins_haunted_f0837a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1711,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1589,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.3417,
+        "youtube": 0.0137,
+        "content_assembly": 0.4091,
+        "monetization": 0.1585,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_tourist_haunts_14de67_tower_london_ghosts_7f860c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.069,
+      "phases": {
+        "preparation": 0.0213,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1828,
+        "content_cleanup_final": 0.0271,
+        "media_svg": 0.3328,
+        "youtube": 0.0091,
+        "content_assembly": 0.3911,
+        "monetization": 0.0579,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_belief_surveys_cab802_building_causes_haun_e70f1e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0778,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1765,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3469,
+        "youtube": 0.0136,
+        "content_assembly": 0.391,
+        "monetization": 0.0703,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_belief_surveys_cab802_haunted_home_reports_aea471",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.017,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1387,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.3543,
+        "youtube": 0.0107,
+        "content_assembly": 0.3701,
+        "monetization": 0.0592,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_belief_surveys_cab802_ghost_belief_surveys_c62724",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.091,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1751,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.3481,
+        "youtube": 0.0145,
+        "content_assembly": 0.4038,
+        "monetization": 0.0589,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_old_buildings_0a3234_old_building_hauntin_0e7d9b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.9838,
+      "phases": {
+        "preparation": 0.0245,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1383,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.3306,
+        "youtube": 0.0121,
+        "content_assembly": 0.4079,
+        "monetization": 4.9979,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_belief_surveys_cab802_haunted_house_buying_3af39f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3348,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2971,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.3848,
+        "youtube": 0.0156,
+        "content_assembly": 0.4604,
+        "monetization": 0.0732,
+        "quality_write": 0.0562
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_belief_surveys_cab802_infrasound_haunted_p_375952",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3498,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3044,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.4217,
+        "youtube": 0.0199,
+        "content_assembly": 0.4503,
+        "monetization": 0.0664,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_borley_rectory_76d632_borley_wall_writings_7b4981",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1677,
+      "phases": {
+        "preparation": 0.0254,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2513,
+        "content_cleanup_final": 0.0272,
+        "media_svg": 0.3683,
+        "youtube": 0.0099,
+        "content_assembly": 0.3858,
+        "monetization": 0.0629,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_borley_rectory_76d632_marianne_foyster_cla_d7e324",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2547,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2452,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.3737,
+        "youtube": 0.0101,
+        "content_assembly": 0.3886,
+        "monetization": 0.1447,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_borley_rectory_76d632_borley_natural_expla_1da4c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9002,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2156,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.384,
+        "youtube": 0.0133,
+        "content_assembly": 0.4495,
+        "monetization": 3.7583,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_borley_rectory_76d632_price_observer_schem_650541",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1091,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1602,
+        "content_cleanup_final": 0.0342,
+        "media_svg": 0.3516,
+        "youtube": 0.0106,
+        "content_assembly": 0.4133,
+        "monetization": 0.0778,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_borley_rectory_76d632_spr_borley_reassessm_a1fb29",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0761,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1481,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3478,
+        "youtube": 0.0094,
+        "content_assembly": 0.4212,
+        "monetization": 0.0753,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_child_witnesses_734eb4_pressure_to_produce_40017b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2154,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2813,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.3539,
+        "youtube": 0.0151,
+        "content_assembly": 0.403,
+        "monetization": 0.0656,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_evp_recordings_9ee0fe_blind_review_evp_met_702515",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2412,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2832,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3879,
+        "youtube": 0.0102,
+        "content_assembly": 0.3845,
+        "monetization": 0.0852,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_evp_recordings_9ee0fe_evp_suggested_phrase_08e37f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.132,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1795,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 0.3609,
+        "youtube": 0.0106,
+        "content_assembly": 0.3948,
+        "monetization": 0.0832,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_evp_recordings_9ee0fe_jurgenson_raudive_ev_e6c4fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4965,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1805,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.349,
+        "youtube": 0.0104,
+        "content_assembly": 0.3811,
+        "monetization": 1.4904,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_evp_recordings_9ee0fe_random_noise_evp_tes_51e732",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0484,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1078,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3308,
+        "youtube": 0.0104,
+        "content_assembly": 0.3727,
+        "monetization": 0.1463,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c_co_warning_symptoms_d9fa33",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0241,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3075,
+        "content_cleanup_final": 0.0395,
+        "media_svg": 0.3606,
+        "youtube": 0.0142,
+        "content_assembly": 0.4421,
+        "monetization": 4.7847,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_evp_recordings_9ee0fe_recorder_handling_no_5d1ed2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2137,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2344,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.3648,
+        "youtube": 0.0143,
+        "content_assembly": 0.4495,
+        "monetization": 0.0679,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_evp_recordings_9ee0fe_spirit_boxes_radio_f_1b7bf3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2112,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2556,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.3786,
+        "youtube": 0.0224,
+        "content_assembly": 0.3937,
+        "monetization": 0.0831,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_haunted_sounds_ecf02f_empty_room_footsteps_913d7d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2854,
+      "phases": {
+        "preparation": 0.0324,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.257,
+        "content_cleanup_final": 0.0389,
+        "media_svg": 0.4251,
+        "youtube": 0.0102,
+        "content_assembly": 0.42,
+        "monetization": 0.0653,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_haunted_sounds_ecf02f_plumbing_heating_noi_36b035",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4165,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4953,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.4195,
+        "youtube": 0.0154,
+        "content_assembly": 0.4979,
+        "monetization": 1.8922,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_haunted_sounds_ecf02f_wall_scratching_pest_4d50fa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8193,
+      "phases": {
+        "preparation": 0.0323,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4815,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.3938,
+        "youtube": 0.0256,
+        "content_assembly": 0.637,
+        "monetization": 1.1881,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e_haunted_house_carbon_cb60af",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2692,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3357,
+        "content_cleanup_final": 0.0342,
+        "media_svg": 0.3482,
+        "youtube": 0.0116,
+        "content_assembly": 0.4151,
+        "monetization": 0.0694,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e_abandoned_haunted_la_c56bd5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.4644,
+      "phases": {
+        "preparation": 0.0287,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6176,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.5264,
+        "youtube": 0.0179,
+        "content_assembly": 0.4934,
+        "monetization": 4.7198,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e_la_corriveau_folklor_9fda1a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4566,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.0979,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.3221,
+        "youtube": 0.01,
+        "content_assembly": 0.4141,
+        "monetization": 1.5189,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e_local_ghost_names_ha_295e1f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.004,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1081,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.3225,
+        "youtube": 0.0089,
+        "content_assembly": 0.3812,
+        "monetization": 0.0969,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e_ghost_walks_local_me_502dca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4197,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3438,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.3559,
+        "youtube": 0.0126,
+        "content_assembly": 0.3996,
+        "monetization": 4.228,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sensed_presence_fef880_comforting_menacing_054e00",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3018,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.306,
+        "content_cleanup_final": 0.036,
+        "media_svg": 0.3781,
+        "youtube": 0.012,
+        "content_assembly": 0.4313,
+        "monetization": 0.0699,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_tourist_haunts_14de67_bhangarh_fort_restri_d5d3bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4485,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4147,
+        "content_cleanup_final": 0.0322,
+        "media_svg": 0.3524,
+        "youtube": 0.0179,
+        "content_assembly": 0.4244,
+        "monetization": 0.1381,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_local_folklore_914f9e_white_lady_place_leg_f213cd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1275,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2098,
+        "content_cleanup_final": 0.0364,
+        "media_svg": 0.3651,
+        "youtube": 0.0167,
+        "content_assembly": 0.4153,
+        "monetization": 2.0313,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_tourist_haunts_14de67_chillingham_ghost_to_6a5e39",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2004,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1845,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.3799,
+        "youtube": 0.0084,
+        "content_assembly": 0.465,
+        "monetization": 0.0649,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_tourist_haunts_14de67_myrtles_folklore_tou_ed0af3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2257,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3016,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3405,
+        "youtube": 0.0133,
+        "content_assembly": 0.4204,
+        "monetization": 0.0585,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_tourist_haunts_14de67_stanley_hotel_shinin_25c650",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1314,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2161,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.3355,
+        "youtube": 0.0101,
+        "content_assembly": 0.4373,
+        "monetization": 0.0531,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_violent_deaths_9693fc_aokigahara_tragedy_t_6b1bd6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0863,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1894,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 0.35,
+        "youtube": 0.0118,
+        "content_assembly": 0.3754,
+        "monetization": 0.0653,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_violent_deaths_9693fc_anne_boleyn_tower_gh_8aafa9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1468,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1829,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 0.3714,
+        "youtube": 0.0083,
+        "content_assembly": 0.411,
+        "monetization": 1.0651,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_tourist_haunts_14de67_edinburgh_vaults_gho_d94a29",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6561,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2432,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 0.3601,
+        "youtube": 0.0158,
+        "content_assembly": 0.5006,
+        "monetization": 4.4421,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_violent_deaths_9693fc_borley_rectory_nun_l_a6fdc4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2472,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2338,
+        "content_cleanup_final": 0.0377,
+        "media_svg": 0.3665,
+        "youtube": 0.0103,
+        "content_assembly": 0.4481,
+        "monetization": 0.0881,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_violent_deaths_9693fc_gettysburg_battlefie_6464ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3921,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3379,
+        "content_cleanup_final": 0.0403,
+        "media_svg": 0.3748,
+        "youtube": 0.0254,
+        "content_assembly": 0.483,
+        "monetization": 0.0613,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_violent_deaths_9693fc_queens_house_ghost_p_4d3d0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2429,
+      "phases": {
+        "preparation": 0.024,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2324,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.3915,
+        "youtube": 0.013,
+        "content_assembly": 0.4486,
+        "monetization": 0.0798,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_violent_deaths_9693fc_violent_backstory_be_4499c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2275,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2654,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.4016,
+        "youtube": 0.0104,
+        "content_assembly": 0.414,
+        "monetization": 0.0635,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c_co_apparition_mechan_af0573",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.257,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2557,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.3678,
+        "youtube": 0.0106,
+        "content_assembly": 0.4744,
+        "monetization": 0.0656,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c_limits_co_ghost_theo_6c2e58",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1319,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2124,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.345,
+        "youtube": 0.0146,
+        "content_assembly": 0.3996,
+        "monetization": 0.0786,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c_haunted_home_co_chec_7511f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.339,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2636,
+        "content_cleanup_final": 0.0476,
+        "media_svg": 0.3548,
+        "youtube": 0.0122,
+        "content_assembly": 0.5346,
+        "monetization": 2.0443,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c_water_heater_ghost_c_955363",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9828,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1628,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.3673,
+        "youtube": 0.01,
+        "content_assembly": 0.365,
+        "monetization": 0.9898,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c_wilmer_furnace_haunt_607f4d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1872,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1431,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.3281,
+        "youtube": 0.0138,
+        "content_assembly": 0.4619,
+        "monetization": 1.1636,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_child_witnesses_734eb4_child_reports_physic_77d99d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1848,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2531,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.3493,
+        "youtube": 0.0237,
+        "content_assembly": 0.4133,
+        "monetization": 0.0643,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_child_witnesses_734eb4_battersea_teen_atten_33b883",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9592,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.243,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.3607,
+        "youtube": 0.0105,
+        "content_assembly": 0.4228,
+        "monetization": 1.8262,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_child_witnesses_734eb4_columbus_photos_stag_67a90b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0148,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1306,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.3685,
+        "youtube": 0.0093,
+        "content_assembly": 0.3632,
+        "monetization": 0.0691,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_child_witnesses_734eb4_enfield_children_cre_6e730d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1861,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2324,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.3612,
+        "youtube": 0.0176,
+        "content_assembly": 0.4331,
+        "monetization": 0.0588,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_cold_spots_atmospher_629401_carbon_monoxide_42c90c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2862,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3347,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.4024,
+        "youtube": 0.0134,
+        "content_assembly": 0.3894,
+        "monetization": 0.0566,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_child_witnesses_734eb4_suggestive_questioni_2dfdff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3677,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3124,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.398,
+        "youtube": 0.0084,
+        "content_assembly": 0.4166,
+        "monetization": 1.1301,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_cold_spots_atmospher_629401_thermal_cameras_933f6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1511,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2591,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.3368,
+        "youtube": 0.0114,
+        "content_assembly": 0.3888,
+        "monetization": 0.0665,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_everyday_haunts_46fbc2_bristol_fire_station_408cb8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8149,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3828,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.8925,
+        "youtube": 0.0108,
+        "content_assembly": 0.4041,
+        "monetization": 0.0646,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_everyday_haunts_46fbc2_closing_time_hauntin_333834",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1072,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5803,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.8893,
+        "youtube": 0.0132,
+        "content_assembly": 0.4795,
+        "monetization": 0.072,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_everyday_haunts_46fbc2_pub_cellar_ghost_sto_621fb7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5988,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2601,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.8445,
+        "youtube": 0.0114,
+        "content_assembly": 0.3693,
+        "monetization": 0.0539,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_everyday_haunts_46fbc2_pub_mirror_ghost_pho_eef586",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5177,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1604,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.7435,
+        "youtube": 0.0113,
+        "content_assembly": 0.4063,
+        "monetization": 0.1354,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_everyday_haunts_46fbc2_grenadier_cedric_bra_8cae99",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6527,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4972,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.8315,
+        "youtube": 0.0193,
+        "content_assembly": 0.4313,
+        "monetization": 2.8222,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_everyday_haunts_46fbc2_red_lion_avebury_wel_7cf08a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6166,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2257,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.899,
+        "youtube": 0.0093,
+        "content_assembly": 0.3576,
+        "monetization": 0.0598,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_hunting_tools_ef37fb_emf_meter_spikes_144a0f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2337,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.301,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.3563,
+        "youtube": 0.0117,
+        "content_assembly": 0.3949,
+        "monetization": 0.0841,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sensed_presence_fef880_artificial_haunted_r_3b4374",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2307,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2676,
+        "content_cleanup_final": 0.0282,
+        "media_svg": 0.3549,
+        "youtube": 0.0128,
+        "content_assembly": 0.4103,
+        "monetization": 0.0752,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sensed_presence_fef880_bedroom_presence_che_188b96",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2042,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2409,
+        "content_cleanup_final": 0.0285,
+        "media_svg": 0.3863,
+        "youtube": 0.0116,
+        "content_assembly": 0.3894,
+        "monetization": 0.0875,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sensed_presence_fef880_suggestion_haunted_r_b96a4b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1858,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.251,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.3594,
+        "youtube": 0.0131,
+        "content_assembly": 0.4175,
+        "monetization": 0.0571,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sensed_presence_fef880_body_signal_mismatch_844055",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3402,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3147,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.3437,
+        "youtube": 0.0105,
+        "content_assembly": 0.4453,
+        "monetization": 0.133,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sleep_paralysis_1fa85e_chest_pressure_incub_77a9e6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3833,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3551,
+        "content_cleanup_final": 0.0348,
+        "media_svg": 0.379,
+        "youtube": 0.0193,
+        "content_assembly": 0.4738,
+        "monetization": 0.0671,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sleep_paralysis_1fa85e_floating_out_of_body_580700",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3957,
+      "phases": {
+        "preparation": 0.0375,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3677,
+        "content_cleanup_final": 0.0427,
+        "media_svg": 0.3636,
+        "youtube": 0.0127,
+        "content_assembly": 0.4529,
+        "monetization": 0.0799,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sleep_paralysis_1fa85e_narcolepsy_warning_s_c955f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4695,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4298,
+        "content_cleanup_final": 0.0577,
+        "media_svg": 0.3528,
+        "youtube": 0.0121,
+        "content_assembly": 0.4715,
+        "monetization": 0.0636,
+        "quality_write": 0.0606
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sleep_paralysis_1fa85e_sensed_presence_intr_99fbae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5293,
+      "phases": {
+        "preparation": 0.0309,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3726,
+        "content_cleanup_final": 0.0452,
+        "media_svg": 0.4051,
+        "youtube": 0.0113,
+        "content_assembly": 0.4492,
+        "monetization": 0.1609,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_bedroom_sleep_grief_716a11",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6351,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.3067,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.7919,
+        "youtube": 0.011,
+        "content_assembly": 0.3938,
+        "monetization": 0.0626,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e_tutbury_castle_mary_f92770",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0742,
+      "phases": {
+        "preparation": 0.0224,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1648,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.3382,
+        "youtube": 0.0112,
+        "content_assembly": 0.4047,
+        "monetization": 0.0583,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_amityville_reputatio_99aae7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0233,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1562,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.3463,
+        "youtube": 0.0132,
+        "content_assembly": 0.3785,
+        "monetization": 0.0551,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_borley_reputation_ca_29278b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0128,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.1461,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.34,
+        "youtube": 0.0078,
+        "content_assembly": 0.3773,
+        "monetization": 0.0549,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_sleep_paralysis_1fa85e_stress_sleep_loss_tr_73f5dd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6722,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4128,
+        "content_cleanup_final": 0.0351,
+        "media_svg": 0.3685,
+        "youtube": 0.011,
+        "content_assembly": 0.4725,
+        "monetization": 4.314,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_immediate_records_vs_8c442f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1159,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2021,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.3829,
+        "youtube": 0.0109,
+        "content_assembly": 0.382,
+        "monetization": 0.0618,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_source_monitoring_gh_2cf22b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5385,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2433,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.3455,
+        "youtube": 2.4321,
+        "content_assembly": 0.3822,
+        "monetization": 0.0585,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_memory_conformity_ha_ad49e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3287,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3203,
+        "content_cleanup_final": 0.0358,
+        "media_svg": 0.346,
+        "youtube": 4.1003,
+        "content_assembly": 0.411,
+        "monetization": 0.058,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_ghost_tourism_reputa_868c2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.9971,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2112,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.3515,
+        "youtube": 0.0118,
+        "content_assembly": 0.439,
+        "monetization": 6.8918,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_enfield_poltergeist_736114_bill_wilkins_voice_ffedb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7274,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2037,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.3476,
+        "youtube": 0.0165,
+        "content_assembly": 0.4333,
+        "monetization": 5.6101,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_white_lady_legends_a3364d_ordsall_white_lady_c2270b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.4167,
+      "phases": {
+        "preparation": 0.0539,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2631,
+        "content_cleanup_final": 0.0285,
+        "media_svg": 0.3875,
+        "youtube": 0.0153,
+        "content_assembly": 0.4228,
+        "monetization": 6.2092,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_continuing_bonds_dea_a5e546",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.7807,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.3446,
+        "content_cleanup_final": 0.0389,
+        "media_svg": 0.8079,
+        "youtube": 0.0112,
+        "content_assembly": 0.3895,
+        "monetization": 7.1471,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_scent_objects_bereav_8c7707",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5363,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2549,
+        "content_cleanup_final": 0.0352,
+        "media_svg": 0.8464,
+        "youtube": 0.0165,
+        "content_assembly": 0.4133,
+        "monetization": 1.9314,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_rees_widowhood_study_05990c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.5517,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1732,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.8734,
+        "youtube": 0.0161,
+        "content_assembly": 0.3937,
+        "monetization": 4.0272,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_spouse_sensed_presen_8568f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5534,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1524,
+        "content_cleanup_final": 0.0308,
+        "media_svg": 0.8383,
+        "youtube": 0.0106,
+        "content_assembly": 0.3784,
+        "monetization": 2.1056,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e_fotheringhay_executi_fd201b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0589,
+      "phases": {
+        "preparation": 0.0489,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1527,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3342,
+        "youtube": 0.0152,
+        "content_assembly": 0.3884,
+        "monetization": 0.0619,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e_lochleven_prison_hau_59c999",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1909,
+      "phases": {
+        "preparation": 0.0242,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1748,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.3555,
+        "youtube": 0.0114,
+        "content_assembly": 0.4368,
+        "monetization": 0.1284,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e_mary_haunted_room_ex_c9c9f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0795,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1696,
+        "content_cleanup_final": 0.0378,
+        "media_svg": 0.3318,
+        "youtube": 0.0107,
+        "content_assembly": 0.3975,
+        "monetization": 0.0763,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_troubling_grief_expe_8ed4f4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6194,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1015,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.8534,
+        "youtube": 0.0119,
+        "content_assembly": 0.3989,
+        "monetization": 3.1978,
+        "quality_write": 0.028
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e_talbot_staircase_leg_7f2947",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0543,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1769,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.3397,
+        "youtube": 0.0109,
+        "content_assembly": 0.3737,
+        "monetization": 0.0746,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_poltergeist_claims_6ad8be_object_displacement_99eca9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9256,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.0803,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.3215,
+        "youtube": 0.0126,
+        "content_assembly": 0.3746,
+        "monetization": 0.0608,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_poltergeist_claims_6ad8be_child_focal_persons_e94563",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.599,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1468,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.3478,
+        "youtube": 0.0145,
+        "content_assembly": 0.3809,
+        "monetization": 2.6202,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e_sheffield_lodge_appa_bf501c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0201,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1407,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.3688,
+        "youtube": 0.0169,
+        "content_assembly": 0.4194,
+        "monetization": 4.9915,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0_enfield_poltergeist_f20067",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2532,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.157,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.3262,
+        "youtube": 0.0088,
+        "content_assembly": 0.4837,
+        "monetization": 0.1938,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0_spr_witness_reports_e247f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1778,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1783,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.4137,
+        "youtube": 0.0215,
+        "content_assembly": 0.4103,
+        "monetization": 0.0609,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_knees_up_soldiers_985b6a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2664,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3109,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.3813,
+        "youtube": 0.0198,
+        "content_assembly": 0.4103,
+        "monetization": 0.0592,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_odd_roman_details_d58310",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.121,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2324,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.3342,
+        "youtube": 0.0107,
+        "content_assembly": 0.3711,
+        "monetization": 0.0729,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_white_lady_legends_a3364d_white_lady_sighting_b1eaed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3072,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2998,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 0.393,
+        "youtube": 0.0158,
+        "content_assembly": 0.4504,
+        "monetization": 0.0616,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_enfield_poltergeist_736114_spr_archive_enfield_b797f1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4869,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3915,
+        "content_cleanup_final": 0.0395,
+        "media_svg": 0.3656,
+        "youtube": 0.0111,
+        "content_assembly": 0.4417,
+        "monetization": 0.1711,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_hunting_tools_ef37fb_thermal_camera_cold_18e679",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3495,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3356,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.3722,
+        "youtube": 0.0094,
+        "content_assembly": 0.468,
+        "monetization": 0.0722,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_hunting_tools_ef37fb_william_hope_spirit_149126",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3032,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2365,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.4036,
+        "youtube": 0.0131,
+        "content_assembly": 0.478,
+        "monetization": 0.066,
+        "quality_write": 0.0567
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_poltergeist_claims_6ad8be_enfield_chair_witnes_ba955f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0944,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.219,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.397,
+        "youtube": 0.0139,
+        "content_assembly": 0.4123,
+        "monetization": 0.9685,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_poltergeist_claims_6ad8be_moving_object_invest_a5c3ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.368,
+      "phases": {
+        "preparation": 0.0321,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.295,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.345,
+        "youtube": 0.01,
+        "content_assembly": 0.5089,
+        "monetization": 0.1041,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_poltergeist_claims_6ad8be_furniture_movement_f_86d22b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1096,
+      "phases": {
+        "preparation": 0.0318,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4308,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.3565,
+        "youtube": 0.0197,
+        "content_assembly": 0.4136,
+        "monetization": 0.7788,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0_borley_rectory_files_2d2ca7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5001,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4454,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.4611,
+        "youtube": 0.0096,
+        "content_assembly": 0.4148,
+        "monetization": 0.0696,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_poltergeist_claims_6ad8be_thrown_objects_evide_b6bdb1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6789,
+      "phases": {
+        "preparation": 0.024,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5354,
+        "content_cleanup_final": 0.0346,
+        "media_svg": 0.444,
+        "youtube": 0.0262,
+        "content_assembly": 0.5095,
+        "monetization": 0.0623,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0_sleep_paralysis_repo_4f834e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6636,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2297,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.8675,
+        "youtube": 0.0116,
+        "content_assembly": 0.4317,
+        "monetization": 0.0573,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0_cambridge_spr_archiv_034bad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.2424,
+      "phases": {
+        "preparation": 0.0348,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4122,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.4927,
+        "youtube": 0.0201,
+        "content_assembly": 0.4794,
+        "monetization": 3.7284,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_fake_seance_memory_57d309",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1088,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.169,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.3377,
+        "youtube": 0.0105,
+        "content_assembly": 0.4434,
+        "monetization": 0.0679,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_psychical_research_860bf0_conjuring_fraud_chec_5ea931",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.5488,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1505,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.9289,
+        "youtube": 0.0198,
+        "content_assembly": 0.3929,
+        "monetization": 3.9961,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_roman_ghost_routes_802dec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8617,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2808,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.3285,
+        "youtube": 0.0116,
+        "content_assembly": 0.3666,
+        "monetization": 1.7804,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_white_lady_legends_a3364d_berry_pomeroy_folklo_c97a66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8875,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2008,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.4121,
+        "youtube": 0.0119,
+        "content_assembly": 0.4144,
+        "monetization": 0.7656,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_white_lady_legends_a3364d_place_bound_sighting_168348",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2997,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3641,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.353,
+        "youtube": 0.0106,
+        "content_assembly": 0.4,
+        "monetization": 0.0741,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_white_lady_legends_a3364d_hohenzollern_death_o_f1d13a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2042,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.261,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.3506,
+        "youtube": 0.011,
+        "content_assembly": 0.4019,
+        "monetization": 1.1018,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_white_lady_legends_a3364d_white_clothing_symbo_aa75b4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1315,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1757,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.3696,
+        "youtube": 0.0117,
+        "content_assembly": 0.3991,
+        "monetization": 0.0775,
+        "quality_write": 0.0489
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_enfield_poltergeist_736114_enfield_press_witnes_0fa021",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0941,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2472,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.3526,
+        "youtube": 0.01,
+        "content_assembly": 0.3475,
+        "monetization": 0.0563,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_enfield_poltergeist_736114_enfield_admitted_hoa_bfdd12",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1351,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1824,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.3534,
+        "youtube": 0.0123,
+        "content_assembly": 0.4374,
+        "monetization": 1.0554,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_enfield_poltergeist_736114_grosse_suggestion_ri_48c7fb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1591,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1714,
+        "content_cleanup_final": 0.0322,
+        "media_svg": 0.3634,
+        "youtube": 0.0112,
+        "content_assembly": 0.4393,
+        "monetization": 0.0679,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_enfield_poltergeist_736114_janet_levitation_pho_13bf68",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3269,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3072,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.4146,
+        "youtube": 0.0129,
+        "content_assembly": 0.4484,
+        "monetization": 0.0619,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_hunting_tools_ef37fb_evp_auditory_pareido_85236b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.35,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2982,
+        "content_cleanup_final": 0.038,
+        "media_svg": 0.4062,
+        "youtube": 0.0093,
+        "content_assembly": 0.4379,
+        "monetization": 0.091,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_hunting_tools_ef37fb_ghost_photo_artifact_ff377d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3337,
+      "phases": {
+        "preparation": 0.0317,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3369,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.367,
+        "youtube": 0.0114,
+        "content_assembly": 0.4513,
+        "monetization": 0.0698,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_ghost_hunting_tools_ef37fb_spirit_box_radio_swe_59eb36",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3081,
+      "phases": {
+        "preparation": 0.0313,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2983,
+        "content_cleanup_final": 0.0436,
+        "media_svg": 0.3796,
+        "youtube": 0.0145,
+        "content_assembly": 0.4213,
+        "monetization": 0.0782,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_basement_perception_086fe4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2443,
+      "phases": {
+        "preparation": 0.0322,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3095,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3396,
+        "youtube": 0.0128,
+        "content_assembly": 0.416,
+        "monetization": 0.0701,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_south_bridge_vaults_1eea27",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2317,
+      "phases": {
+        "preparation": 0.0294,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2705,
+        "content_cleanup_final": 0.0293,
+        "media_svg": 0.356,
+        "youtube": 0.0175,
+        "content_assembly": 0.4229,
+        "monetization": 0.0716,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_apparitions_percepti_1f52cf_face_pareidolia_haun_a24e72",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2356,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2466,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.4051,
+        "youtube": 0.0125,
+        "content_assembly": 0.4225,
+        "monetization": 0.0645,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_apparitions_percepti_1f52cf_grief_visions_deceas_8f2a27",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4316,
+      "phases": {
+        "preparation": 0.0318,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3601,
+        "content_cleanup_final": 0.0387,
+        "media_svg": 0.3975,
+        "youtube": 0.0131,
+        "content_assembly": 0.4798,
+        "monetization": 0.0717,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_apparitions_percepti_1f52cf_hampton_court_galler_eb7935",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3047,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3311,
+        "content_cleanup_final": 0.0293,
+        "media_svg": 0.398,
+        "youtube": 0.0108,
+        "content_assembly": 0.4144,
+        "monetization": 0.059,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_apparitions_percepti_1f52cf_shadow_figures_perip_b2444a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2671,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2806,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.3931,
+        "youtube": 0.0202,
+        "content_assembly": 0.4239,
+        "monetization": 0.0613,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_apparitions_percepti_1f52cf_sleep_paralysis_bedr_239078",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4671,
+      "phases": {
+        "preparation": 0.0418,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.3969,
+        "content_cleanup_final": 0.0391,
+        "media_svg": 0.3754,
+        "youtube": 0.0136,
+        "content_assembly": 0.4751,
+        "monetization": 0.0739,
+        "quality_write": 0.0499
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_apparitions_percepti_1f52cf_treasurers_house_rom_2493e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3803,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4245,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.3927,
+        "youtube": 0.0146,
+        "content_assembly": 0.3998,
+        "monetization": 0.0632,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_cold_spots_atmospher_629401_perfume_tobacco_smel_0ef895",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.456,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3788,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.4073,
+        "youtube": 0.0112,
+        "content_assembly": 0.4165,
+        "monetization": 0.1583,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_frank_green_cellar_r_2218d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.115,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.2319,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.3532,
+        "youtube": 0.0112,
+        "content_assembly": 0.3852,
+        "monetization": 0.0571,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_eboracum_haunted_lan_31dbec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6662,
+      "phases": {
+        "preparation": 0.031,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.3213,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.3606,
+        "youtube": 0.0104,
+        "content_assembly": 0.4629,
+        "monetization": 1.4156,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_believers_skeptics_r_85a4d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.256,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2295,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.3498,
+        "youtube": 0.0145,
+        "content_assembly": 0.4898,
+        "monetization": 0.0847,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_group_contagion_repo_5b6331",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5231,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3037,
+        "content_cleanup_final": 0.0428,
+        "media_svg": 0.3608,
+        "youtube": 1.3042,
+        "content_assembly": 0.3744,
+        "monetization": 0.0642,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_cold_spots_suggestio_3105ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2934,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3066,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.353,
+        "youtube": 0.0111,
+        "content_assembly": 0.4183,
+        "monetization": 2.1132,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_haunted_tour_warning_804362",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9535,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2104,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.3411,
+        "youtube": 0.011,
+        "content_assembly": 0.3953,
+        "monetization": 2.8909,
+        "quality_write": 0.0558
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 211,
+    "reused_pages": 0,
+    "rebuilt_pages": 211,
+    "error_pages": 0,
+    "page_work_wall_seconds": 224.3264,
+    "rebuilt_pages_per_minute": 56.4356,
+    "queued_rebuild_pages_per_minute": 56.4356,
+    "apparent_page_work_speedup": 2.8548,
+    "process_worker_diagnostics": {
+      "completed_pages": 211,
+      "successful_pages": 211,
+      "failed_pages": 0,
+      "worker_summary": {
+        "11224": {
+          "pages": 67,
+          "successes": 67,
+          "failures": 0,
+          "total_worker_seconds": 219.0271,
+          "max_worker_seconds": 9.82,
+          "last_base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_group_contagion_repo_5b6331"
+        },
+        "21952": {
+          "pages": 75,
+          "successes": 75,
+          "failures": 0,
+          "total_worker_seconds": 216.0915,
+          "max_worker_seconds": 7.7655,
+          "last_base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_cold_spots_suggestio_3105ff"
+        },
+        "28824": {
+          "pages": 69,
+          "successes": 69,
+          "failures": 0,
+          "total_worker_seconds": 214.3969,
+          "max_worker_seconds": 8.4578,
+          "last_base_name": "hauntings_b4cf37_suggestion_expectati_e4eab0_haunted_tour_warning_804362"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "hauntings_b4cf37_grief_bereavement_6b6d10_continuing_bonds_dea_a5e546",
+          "level": 3,
+          "success": true,
+          "worker_pid": 11224,
+          "worker_duration_seconds": 9.82,
+          "total_seconds": 9.7807,
+          "worker_started_at_utc": "2026-07-03T12:04:57.311708Z",
+          "worker_finished_at_utc": "2026-07-03T12:05:07.092425Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37_memory_retelling_f9b48e_ghost_tourism_reputa_868c2a",
+          "level": 3,
+          "success": true,
+          "worker_pid": 11224,
+          "worker_duration_seconds": 9.038,
+          "total_seconds": 8.9971,
+          "worker_started_at_utc": "2026-07-03T12:04:48.272353Z",
+          "worker_finished_at_utc": "2026-07-03T12:04:57.269474Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37_white_lady_legends_a3364d_ordsall_white_lady_c2270b",
+          "level": 3,
+          "success": true,
+          "worker_pid": 28824,
+          "worker_duration_seconds": 8.4578,
+          "total_seconds": 8.4167,
+          "worker_started_at_utc": "2026-07-03T12:04:56.513220Z",
+          "worker_finished_at_utc": "2026-07-03T12:05:04.929924Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37",
+          "level": 1,
+          "success": true,
+          "worker_pid": 11224,
+          "worker_duration_seconds": 7.8551,
+          "total_seconds": 7.809,
+          "worker_started_at_utc": "2026-07-03T12:02:21.700896Z",
+          "worker_finished_at_utc": "2026-07-03T12:02:29.509980Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37_enfield_poltergeist_736114_bill_wilkins_voice_ffedb3",
+          "level": 3,
+          "success": true,
+          "worker_pid": 21952,
+          "worker_duration_seconds": 7.7655,
+          "total_seconds": 7.7274,
+          "worker_started_at_utc": "2026-07-03T12:04:56.515650Z",
+          "worker_finished_at_utc": "2026-07-03T12:05:04.243105Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37_local_folklore_914f9e_abandoned_haunted_la_c56bd5",
+          "level": 3,
+          "success": true,
+          "worker_pid": 28824,
+          "worker_duration_seconds": 7.505,
+          "total_seconds": 7.4644,
+          "worker_started_at_utc": "2026-07-03T12:03:57.360807Z",
+          "worker_finished_at_utc": "2026-07-03T12:04:04.825208Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37_carbon_monoxide_42c90c_co_warning_symptoms_d9fa33",
+          "level": 3,
+          "success": true,
+          "worker_pid": 28824,
+          "worker_duration_seconds": 7.0683,
+          "total_seconds": 7.0241,
+          "worker_started_at_utc": "2026-07-03T12:03:47.958488Z",
+          "worker_finished_at_utc": "2026-07-03T12:03:54.982631Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37_mary_queen_ghosts_996a8e_sheffield_lodge_appa_bf501c",
+          "level": 3,
+          "success": true,
+          "worker_pid": 11224,
+          "worker_duration_seconds": 7.0645,
+          "total_seconds": 7.0201,
+          "worker_started_at_utc": "2026-07-03T12:05:13.958084Z",
+          "worker_finished_at_utc": "2026-07-03T12:05:20.978200Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37_old_buildings_0a3234_old_building_hauntin_0e7d9b",
+          "level": 3,
+          "success": true,
+          "worker_pid": 28824,
+          "worker_duration_seconds": 7.0323,
+          "total_seconds": 6.9838,
+          "worker_started_at_utc": "2026-07-03T12:03:34.980208Z",
+          "worker_finished_at_utc": "2026-07-03T12:03:41.964008Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "hauntings_b4cf37_infrasound_7e4338",
+          "level": 2,
+          "success": true,
+          "worker_pid": 21952,
+          "worker_duration_seconds": 6.9117,
+          "total_seconds": 6.8586,
+          "worker_started_at_utc": "2026-07-03T12:02:24.672598Z",
+          "worker_finished_at_utc": "2026-07-03T12:02:31.531244Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2772 @@
+{
+  "generated_at": "2026-07-03T13:06:43",
+  "passed": true,
+  "baseline": {
+    "article_pages": 216,
+    "amazon_specific_pages": 188,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 187,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "hauntings_b4cf37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_face_pareidolia_haun_a24e72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_grief_visions_deceas_8f2a27": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_hampton_court_galler_eb7935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_shadow_figures_perip_b2444a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_sleep_paralysis_bedr_239078": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_treasurers_house_rom_2493e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_building_causes_haun_e70f1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_ghost_belief_surveys_c62724": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_ghost_tour_appeal_b4ee33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_haunted_home_reports_aea471": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_haunted_house_buying_3af39f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_infrasound_haunted_p_375952": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_borley_natural_expla_1da4c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_borley_wall_writings_7b4981": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_daily_mirror_borley_b979e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_marianne_foyster_cla_d7e324": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_price_observer_schem_650541": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_spr_borley_reassessm_a1fb29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_co_apparition_mechan_af0573": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_co_warning_symptoms_d9fa33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_haunted_home_co_chec_7511f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_limits_co_ghost_theo_6c2e58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_water_heater_ghost_c_955363": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_wilmer_furnace_haunt_607f4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_battersea_teen_atten_33b883": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_child_reports_physic_77d99d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_columbus_photos_stag_67a90b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_enfield_children_cre_6e730d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_pressure_to_produce_40017b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_suggestive_questioni_2dfdff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_carbon_monoxide_42c90c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_cold_draughts_7c618d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_musty_smells_e00acc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_perfume_tobacco_smel_0ef895": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_phantosmia_5515b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_thermal_cameras_933f6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_bill_wilkins_voice_ffedb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_enfield_admitted_hoa_bfdd12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_enfield_press_witnes_0fa021": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_grosse_suggestion_ri_48c7fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_janet_levitation_pho_13bf68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_spr_archive_enfield_b797f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_blind_review_evp_met_702515": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_evp_suggested_phrase_08e37f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_jurgenson_raudive_ev_e6c4fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_random_noise_evp_tes_51e732": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_recorder_handling_no_5d1ed2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_spirit_boxes_radio_f_1b7bf3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_emf_meter_spikes_144a0f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_evp_auditory_pareido_85236b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_ghost_photo_artifact_ff377d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_spirit_box_radio_swe_59eb36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_thermal_camera_cold_18e679": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_william_hope_spirit_149126": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_faces_in_ghost_photo_114deb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_ghost_photo_orbs_de3341": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_mist_vapour_ghost_ph_435f40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_motion_blur_appariti_8b0a5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_reflection_ghost_fig_e26aa2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_spirit_photography_f_1a45ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_borley_observer_sche_e058ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_borley_physical_trac_ac1a12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_borley_publicity_pro_5bf6b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_foyster_witness_prob_751593": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_price_library_lab_au_aeeb3e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_william_hope_exposur_0bdc51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_answering_knocks_39ddcb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_empty_room_footsteps_913d7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_enfield_knocks_case_a5c904": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_infrasound_unease_50c1f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_plumbing_heating_noi_36b035": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_wall_scratching_pest_4d50fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_borley_reputation_fr_2079b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_enfield_partial_hoax_5d7e65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_ghost_voice_trickery_655a2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_haunted_object_custo_dd07aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_haunting_memory_embe_418139": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_spirit_photo_fraud_0e2240": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_artificial_haunt_roo_f147a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_boilers_fans_haunted_9291c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_checking_low_frequen_007782": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_fear_frequency_myth_e1eb1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_infrasound_hidden_ir_47e3db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_tandy_19hz_lab_ghost_4c192a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_abandoned_haunted_la_c56bd5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_ghost_walks_local_me_502dca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_haunted_house_carbon_cb60af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_la_corriveau_folklor_9fda1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_local_ghost_names_ha_295e1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_white_lady_place_leg_f213cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_fotheringhay_executi_fd201b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_lochleven_prison_hau_59c999": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_mary_haunted_room_ex_c9c9f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_sheffield_lodge_appa_bf501c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_talbot_staircase_leg_7f2947": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_tutbury_castle_mary_f92770": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_amityville_reputatio_99aae7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_borley_reputation_ca_29278b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_ghost_tourism_reputa_868c2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_immediate_records_vs_8c442f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_memory_conformity_ha_ad49e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_source_monitoring_gh_2cf22b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_anne_boleyn_tower_ha_b19b23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_gothic_ruins_haunted_b69855": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_haunted_hotels_guest_d4a57d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_old_building_creepy_d4199b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_old_building_hauntin_0e7d9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_sacred_ruins_haunted_f0837a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_child_focal_persons_e94563": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_enfield_chair_witnes_ba955f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_furniture_movement_f_86d22b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_moving_object_invest_a5c3ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_object_displacement_99eca9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_thrown_objects_evide_b6bdb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_borley_rectory_files_2d2ca7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_cambridge_spr_archiv_034bad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_enfield_poltergeist_f20067": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_spr_witness_reports_e247f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_basement_perception_086fe4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_eboracum_haunted_lan_31dbec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_frank_green_cellar_r_2218d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_knees_up_soldiers_985b6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_odd_roman_details_d58310": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_roman_ghost_routes_802dec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_artificial_haunted_r_3b4374": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_bedroom_presence_che_188b96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_body_signal_mismatch_844055": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_comforting_menacing_054e00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_suggestion_haunted_r_b96a4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_watchful_presence_29e4b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_chest_pressure_incub_77a9e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_floating_out_of_body_580700": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_narcolepsy_warning_s_c955f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_old_hag_folklore_92ef81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_sensed_presence_intr_99fbae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_stress_sleep_loss_tr_73f5dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_believers_skeptics_r_85a4d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_cold_spots_suggestio_3105ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_fake_seance_memory_57d309": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_group_contagion_repo_5b6331": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_haunted_tour_warning_804362": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_south_bridge_vaults_1eea27": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_bhangarh_fort_restri_d5d3bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_chillingham_ghost_to_6a5e39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_edinburgh_vaults_gho_d94a29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_myrtles_folklore_tou_ed0af3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_stanley_hotel_shinin_25c650": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_tower_london_ghosts_7f860c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_anne_boleyn_tower_gh_8aafa9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_aokigahara_tragedy_t_6b1bd6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_borley_rectory_nun_l_a6fdc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_gettysburg_battlefie_6464ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_queens_house_ghost_p_4d3d0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_violent_backstory_be_4499c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_berry_pomeroy_folklo_c97a66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_hohenzollern_death_o_f1d13a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_ordsall_white_lady_c2270b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_place_bound_sighting_168348": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_white_clothing_symbo_aa75b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_white_lady_sighting_b1eaed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 208,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "hauntings_b4cf37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_face_pareidolia_haun_a24e72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_grief_visions_deceas_8f2a27": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_hampton_court_galler_eb7935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_shadow_figures_perip_b2444a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_sleep_paralysis_bedr_239078": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_apparitions_percepti_1f52cf_treasurers_house_rom_2493e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_building_causes_haun_e70f1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_ghost_belief_surveys_c62724": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_ghost_tour_appeal_b4ee33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_haunted_home_reports_aea471": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_haunted_house_buying_3af39f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_belief_surveys_cab802_infrasound_haunted_p_375952": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_borley_natural_expla_1da4c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_borley_wall_writings_7b4981": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_daily_mirror_borley_b979e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_marianne_foyster_cla_d7e324": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_price_observer_schem_650541": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_borley_rectory_76d632_spr_borley_reassessm_a1fb29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_co_apparition_mechan_af0573": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_co_warning_symptoms_d9fa33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_haunted_home_co_chec_7511f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_limits_co_ghost_theo_6c2e58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_water_heater_ghost_c_955363": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_carbon_monoxide_42c90c_wilmer_furnace_haunt_607f4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_battersea_teen_atten_33b883": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_child_reports_physic_77d99d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_columbus_photos_stag_67a90b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_enfield_children_cre_6e730d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_pressure_to_produce_40017b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_child_witnesses_734eb4_suggestive_questioni_2dfdff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_carbon_monoxide_42c90c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_cold_draughts_7c618d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_musty_smells_e00acc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_perfume_tobacco_smel_0ef895": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_phantosmia_5515b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_cold_spots_atmospher_629401_thermal_cameras_933f6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_bill_wilkins_voice_ffedb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_enfield_admitted_hoa_bfdd12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_enfield_press_witnes_0fa021": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_grosse_suggestion_ri_48c7fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_janet_levitation_pho_13bf68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_enfield_poltergeist_736114_spr_archive_enfield_b797f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_everyday_haunts_46fbc2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_everyday_haunts_46fbc2_bristol_fire_station_408cb8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_everyday_haunts_46fbc2_closing_time_hauntin_333834": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_everyday_haunts_46fbc2_grenadier_cedric_bra_8cae99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_everyday_haunts_46fbc2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_everyday_haunts_46fbc2_pub_cellar_ghost_sto_621fb7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_everyday_haunts_46fbc2_pub_mirror_ghost_pho_eef586": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_everyday_haunts_46fbc2_red_lion_avebury_wel_7cf08a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_blind_review_evp_met_702515": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_evp_suggested_phrase_08e37f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_jurgenson_raudive_ev_e6c4fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_random_noise_evp_tes_51e732": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_recorder_handling_no_5d1ed2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_evp_recordings_9ee0fe_spirit_boxes_radio_f_1b7bf3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_emf_meter_spikes_144a0f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_evp_auditory_pareido_85236b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_ghost_photo_artifact_ff377d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_spirit_box_radio_swe_59eb36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_thermal_camera_cold_18e679": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_hunting_tools_ef37fb_william_hope_spirit_149126": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_faces_in_ghost_photo_114deb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_ghost_photo_orbs_de3341": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_mist_vapour_ghost_ph_435f40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_motion_blur_appariti_8b0a5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_reflection_ghost_fig_e26aa2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_ghost_photos_f51bed_spirit_photography_f_1a45ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_grief_bereavement_6b6d10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_grief_bereavement_6b6d10_bedroom_sleep_grief_716a11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_grief_bereavement_6b6d10_continuing_bonds_dea_a5e546": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_grief_bereavement_6b6d10_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_grief_bereavement_6b6d10_rees_widowhood_study_05990c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_grief_bereavement_6b6d10_scent_objects_bereav_8c7707": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_grief_bereavement_6b6d10_spouse_sensed_presen_8568f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_grief_bereavement_6b6d10_troubling_grief_expe_8ed4f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_borley_observer_sche_e058ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_borley_physical_trac_ac1a12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_borley_publicity_pro_5bf6b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_foyster_witness_prob_751593": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_price_library_lab_au_aeeb3e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_harry_price_1ff1de_william_hope_exposur_0bdc51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_answering_knocks_39ddcb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_empty_room_footsteps_913d7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_enfield_knocks_case_a5c904": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_infrasound_unease_50c1f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_plumbing_heating_noi_36b035": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_haunted_sounds_ecf02f_wall_scratching_pest_4d50fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_borley_reputation_fr_2079b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_enfield_partial_hoax_5d7e65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_ghost_voice_trickery_655a2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_haunted_object_custo_dd07aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_haunting_memory_embe_418139": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_hoaxes_fraud_6bb26d_spirit_photo_fraud_0e2240": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_home_checks_62807a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_home_checks_62807a_carbon_monoxide_haun_959035": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_home_checks_62807a_damp_mould_unease_026f59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_home_checks_62807a_flickering_lights_wi_bc0273": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_home_checks_62807a_house_noises_footste_1d271c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_home_checks_62807a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_home_checks_62807a_loft_pests_scratchin_1f21a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_home_checks_62807a_sleep_paralysis_bedr_714254": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_artificial_haunt_roo_f147a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_boilers_fans_haunted_9291c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_checking_low_frequen_007782": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_fear_frequency_myth_e1eb1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_infrasound_hidden_ir_47e3db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_infrasound_7e4338_tandy_19hz_lab_ghost_4c192a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_abandoned_haunted_la_c56bd5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_ghost_walks_local_me_502dca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_haunted_house_carbon_cb60af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_la_corriveau_folklor_9fda1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_local_ghost_names_ha_295e1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_local_folklore_914f9e_white_lady_place_leg_f213cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_fotheringhay_executi_fd201b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_lochleven_prison_hau_59c999": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_mary_haunted_room_ex_c9c9f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_sheffield_lodge_appa_bf501c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_talbot_staircase_leg_7f2947": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_mary_queen_ghosts_996a8e_tutbury_castle_mary_f92770": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_amityville_reputatio_99aae7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_borley_reputation_ca_29278b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_ghost_tourism_reputa_868c2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_immediate_records_vs_8c442f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_memory_conformity_ha_ad49e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_memory_retelling_f9b48e_source_monitoring_gh_2cf22b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_anne_boleyn_tower_ha_b19b23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_gothic_ruins_haunted_b69855": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_haunted_hotels_guest_d4a57d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_old_building_creepy_d4199b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_old_building_hauntin_0e7d9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_old_buildings_0a3234_sacred_ruins_haunted_f0837a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_child_focal_persons_e94563": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_enfield_chair_witnes_ba955f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_furniture_movement_f_86d22b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_moving_object_invest_a5c3ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_object_displacement_99eca9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_poltergeist_claims_6ad8be_thrown_objects_evide_b6bdb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_borley_rectory_files_2d2ca7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_cambridge_spr_archiv_034bad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_conjuring_fraud_chec_5ea931": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_enfield_poltergeist_f20067": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_sleep_paralysis_repo_4f834e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_psychical_research_860bf0_spr_witness_reports_e247f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_basement_perception_086fe4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_eboracum_haunted_lan_31dbec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_frank_green_cellar_r_2218d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_knees_up_soldiers_985b6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_odd_roman_details_d58310": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_roman_soldier_ghosts_5f87ff_roman_ghost_routes_802dec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_artificial_haunted_r_3b4374": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_bedroom_presence_che_188b96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_body_signal_mismatch_844055": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_comforting_menacing_054e00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_suggestion_haunted_r_b96a4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sensed_presence_fef880_watchful_presence_29e4b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_chest_pressure_incub_77a9e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_floating_out_of_body_580700": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_narcolepsy_warning_s_c955f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_old_hag_folklore_92ef81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_sensed_presence_intr_99fbae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_sleep_paralysis_1fa85e_stress_sleep_loss_tr_73f5dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_believers_skeptics_r_85a4d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_cold_spots_suggestio_3105ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_fake_seance_memory_57d309": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_group_contagion_repo_5b6331": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_haunted_tour_warning_804362": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_suggestion_expectati_e4eab0_south_bridge_vaults_1eea27": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_bhangarh_fort_restri_d5d3bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_chillingham_ghost_to_6a5e39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_edinburgh_vaults_gho_d94a29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_myrtles_folklore_tou_ed0af3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_stanley_hotel_shinin_25c650": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_tourist_haunts_14de67_tower_london_ghosts_7f860c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_anne_boleyn_tower_gh_8aafa9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_aokigahara_tragedy_t_6b1bd6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_borley_rectory_nun_l_a6fdc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_gettysburg_battlefie_6464ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_queens_house_ghost_p_4d3d0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_violent_deaths_9693fc_violent_backstory_be_4499c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_berry_pomeroy_folklo_c97a66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_hohenzollern_death_o_f1d13a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_ordsall_white_lady_c2270b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_place_bound_sighting_168348": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_white_clothing_symbo_aa75b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "hauntings_b4cf37_white_lady_legends_a3364d_white_lady_sighting_b1eaed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 216,
+  "regressions": []
+}

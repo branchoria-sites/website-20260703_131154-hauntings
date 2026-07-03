@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-07-03T12:06:40.118959Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1389,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 210,
+    "average_inline_inbound_links_per_visible_page": 6.58,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "hauntings_b4cf37",
+        "title": "What Makes a Haunting Feel Real?",
+        "permalink": "/hauntings/",
+        "inline_inbound_count": 152
+      },
+      {
+        "basename": "hauntings_b4cf37_apparitions_percepti_1f52cf",
+        "title": "Apparitions",
+        "permalink": "/apparitions/",
+        "inline_inbound_count": 85
+      },
+      {
+        "basename": "hauntings_b4cf37_mary_queen_ghosts_996a8e_mary_haunted_room_ex_c9c9f2",
+        "title": "Expectation",
+        "permalink": "/expectation/",
+        "inline_inbound_count": 74
+      },
+      {
+        "basename": "hauntings_b4cf37_poltergeist_claims_6ad8be_moving_object_invest_a5c3ff",
+        "title": "Investigation",
+        "permalink": "/investigation/",
+        "inline_inbound_count": 68
+      },
+      {
+        "basename": "hauntings_b4cf37_carbon_monoxide_42c90c_co_apparition_mechan_af0573",
+        "title": "Mechanism",
+        "permalink": "/mechanism/",
+        "inline_inbound_count": 59
+      },
+      {
+        "basename": "hauntings_b4cf37_haunted_sounds_ecf02f_empty_room_footsteps_913d7d",
+        "title": "Footsteps",
+        "permalink": "/footsteps/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "hauntings_b4cf37_cold_spots_atmospher_629401",
+        "title": "Atmosphere",
+        "permalink": "/atmosphere/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "hauntings_b4cf37_borley_rectory_76d632_price_observer_schem_650541",
+        "title": "Observers",
+        "permalink": "/observers/",
+        "inline_inbound_count": 45
+      },
+      {
+        "basename": "hauntings_b4cf37_psychical_research_860bf0",
+        "title": "Research Files",
+        "permalink": "/research-files/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "hauntings_b4cf37_child_witnesses_734eb4_pressure_to_produce_40017b",
+        "title": "Pressure",
+        "permalink": "/pressure/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "hauntings_b4cf37_memory_retelling_f9b48e",
+        "title": "Retelling",
+        "permalink": "/retelling/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "hauntings_b4cf37_grief_bereavement_6b6d10",
+        "title": "Grief",
+        "permalink": "/grief/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "hauntings_b4cf37_local_folklore_914f9e",
+        "title": "Local Folklore",
+        "permalink": "/local-folklore/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "hauntings_b4cf37_old_buildings_0a3234",
+        "title": "Old Buildings",
+        "permalink": "/old-buildings/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "hauntings_b4cf37_harry_price_1ff1de",
+        "title": "Harry Price",
+        "permalink": "/harry-price/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "hauntings_b4cf37_enfield_poltergeist_736114",
+        "title": "Enfield",
+        "permalink": "/enfield/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "hauntings_b4cf37_sensed_presence_fef880_watchful_presence_29e4b7",
+        "title": "Being Watched",
+        "permalink": "/being-watched/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "hauntings_b4cf37_violent_deaths_9693fc_borley_rectory_nun_l_a6fdc4",
+        "title": "Borley",
+        "permalink": "/borley/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "hauntings_b4cf37_ghost_photos_f51bed_reflection_ghost_fig_e26aa2",
+        "title": "Reflections",
+        "permalink": "/reflections/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "hauntings_b4cf37_poltergeist_claims_6ad8be",
+        "title": "Moving Objects",
+        "permalink": "/moving-objects/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "hauntings_b4cf37_haunted_sounds_ecf02f_plumbing_heating_noi_36b035",
+        "title": "Pipes",
+        "permalink": "/pipes/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "hauntings_b4cf37_belief_surveys_cab802_ghost_tour_appeal_b4ee33",
+        "title": "Ghost Tours",
+        "permalink": "/ghost-tours/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "hauntings_b4cf37_sleep_paralysis_1fa85e_floating_out_of_body_580700",
+        "title": "Floating",
+        "permalink": "/floating/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "hauntings_b4cf37_apparitions_percepti_1f52cf_face_pareidolia_haun_a24e72",
+        "title": "Pareidolia",
+        "permalink": "/pareidolia/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "hauntings_b4cf37_apparitions_percepti_1f52cf_hampton_court_galler_eb7935",
+        "title": "Hampton Court",
+        "permalink": "/hampton-court/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "hauntings_b4cf37_sleep_paralysis_1fa85e_chest_pressure_incub_77a9e6",
+        "title": "Chest Pressure",
+        "permalink": "/chest-pressure/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "hauntings_b4cf37_suggestion_expectati_e4eab0_south_bridge_vaults_1eea27",
+        "title": "Vaults",
+        "permalink": "/vaults/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "hauntings_b4cf37_grief_bereavement_6b6d10_spouse_sensed_presen_8568f8",
+        "title": "Felt Presence",
+        "permalink": "/felt-presence/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "hauntings_b4cf37_poltergeist_claims_6ad8be_furniture_movement_f_86d22b",
+        "title": "Moving Furniture",
+        "permalink": "/moving-furniture/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "hauntings_b4cf37_sleep_paralysis_1fa85e_stress_sleep_loss_tr_73f5dd",
+        "title": "Triggers",
+        "permalink": "/triggers/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "hauntings_b4cf37_white_lady_legends_a3364d",
+        "title": "White Ladies",
+        "permalink": "/white-ladies/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "hauntings_b4cf37_evp_recordings_9ee0fe",
+        "title": "Evp Recordings",
+        "permalink": "/evp-recordings/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "hauntings_b4cf37_ghost_photos_f51bed_motion_blur_appariti_8b0a5a",
+        "title": "Motion Blur",
+        "permalink": "/motion-blur/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "hauntings_b4cf37_carbon_monoxide_42c90c_limits_co_ghost_theo_6c2e58",
+        "title": "Limits",
+        "permalink": "/limits/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "hauntings_b4cf37_child_witnesses_734eb4_suggestive_questioni_2dfdff",
+        "title": "Questioning",
+        "permalink": "/questioning/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "hauntings_b4cf37_enfield_poltergeist_736114_enfield_admitted_hoa_bfdd12",
+        "title": "Hoaxing",
+        "permalink": "/hoaxing/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "title": "Hoaxes",
+        "permalink": "/hoaxes/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "hauntings_b4cf37_poltergeist_claims_6ad8be_thrown_objects_evide_b6bdb1",
+        "title": "Thrown Objects",
+        "permalink": "/thrown-objects/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "hauntings_b4cf37_apparitions_percepti_1f52cf_shadow_figures_perip_b2444a",
+        "title": "Shadow Figures",
+        "permalink": "/shadow-figures/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "hauntings_b4cf37_harry_price_1ff1de_borley_physical_trac_ac1a12",
+        "title": "Physical Traces",
+        "permalink": "/physical-traces/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_apparitions_percepti_1f52cf",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_belief_surveys_cab802",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_borley_rectory_76d632",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_carbon_monoxide_42c90c",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_child_witnesses_734eb4",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_cold_spots_atmospher_629401",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_enfield_poltergeist_736114",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_everyday_haunts_46fbc2",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_evp_recordings_9ee0fe",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_ghost_hunting_tools_ef37fb",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_grief_bereavement_6b6d10",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_harry_price_1ff1de",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_haunted_sounds_ecf02f",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_home_checks_62807a",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_index",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_infrasound_7e4338",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_local_folklore_914f9e",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_mary_queen_ghosts_996a8e",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_memory_retelling_f9b48e",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_old_buildings_0a3234",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_poltergeist_claims_6ad8be",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_psychical_research_860bf0",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_sensed_presence_fef880",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_sleep_paralysis_1fa85e",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_suggestion_expectati_e4eab0",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_tourist_haunts_14de67",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_violent_deaths_9693fc",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37",
+        "to": "hauntings_b4cf37_white_lady_legends_a3364d",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37",
+        "type": "parent"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_apparitions_percepti_1f52cf",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_belief_surveys_cab802",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_borley_rectory_76d632",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_carbon_monoxide_42c90c",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_child_witnesses_734eb4",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_cold_spots_atmospher_629401",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_enfield_poltergeist_736114",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_everyday_haunts_46fbc2",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_evp_recordings_9ee0fe",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_ghost_hunting_tools_ef37fb",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_grief_bereavement_6b6d10",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_harry_price_1ff1de",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_haunted_sounds_ecf02f",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_home_checks_62807a",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_local_folklore_914f9e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_mary_queen_ghosts_996a8e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_memory_retelling_f9b48e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_old_buildings_0a3234",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_poltergeist_claims_6ad8be",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_psychical_research_860bf0",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_sensed_presence_fef880",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_sleep_paralysis_1fa85e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_suggestion_expectati_e4eab0",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_tourist_haunts_14de67",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_violent_deaths_9693fc",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_white_lady_legends_a3364d",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_infrasound_7e4338_artificial_haunt_roo_f147a8",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_infrasound_7e4338_boilers_fans_haunted_9291c5",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_infrasound_7e4338_checking_low_frequen_007782",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_infrasound_7e4338_fear_frequency_myth_e1eb1c",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_infrasound_7e4338_index",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_infrasound_7e4338_infrasound_hidden_ir_47e3db",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37_infrasound_7e4338_tandy_19hz_lab_ghost_4c192a",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_infrasound_7e4338",
+        "to": "hauntings_b4cf37",
+        "type": "ancestor"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37",
+        "type": "parent"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_apparitions_percepti_1f52cf",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_belief_surveys_cab802",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_borley_rectory_76d632",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_carbon_monoxide_42c90c",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_child_witnesses_734eb4",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_cold_spots_atmospher_629401",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_enfield_poltergeist_736114",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_everyday_haunts_46fbc2",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_evp_recordings_9ee0fe",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_ghost_hunting_tools_ef37fb",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_grief_bereavement_6b6d10",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_haunted_sounds_ecf02f",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_home_checks_62807a",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_infrasound_7e4338",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_local_folklore_914f9e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_mary_queen_ghosts_996a8e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_memory_retelling_f9b48e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_old_buildings_0a3234",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_poltergeist_claims_6ad8be",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_psychical_research_860bf0",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_sensed_presence_fef880",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_sleep_paralysis_1fa85e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_suggestion_expectati_e4eab0",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_tourist_haunts_14de67",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_violent_deaths_9693fc",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_white_lady_legends_a3364d",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_harry_price_1ff1de_borley_observer_sche_e058ce",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_harry_price_1ff1de_borley_physical_trac_ac1a12",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_harry_price_1ff1de_borley_publicity_pro_5bf6b4",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_harry_price_1ff1de_foyster_witness_prob_751593",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_harry_price_1ff1de_index",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_harry_price_1ff1de_price_library_lab_au_aeeb3e",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37_harry_price_1ff1de_william_hope_exposur_0bdc51",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_harry_price_1ff1de",
+        "to": "hauntings_b4cf37",
+        "type": "ancestor"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37",
+        "type": "parent"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_apparitions_percepti_1f52cf",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_belief_surveys_cab802",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_borley_rectory_76d632",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_carbon_monoxide_42c90c",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_child_witnesses_734eb4",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_cold_spots_atmospher_629401",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_enfield_poltergeist_736114",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_everyday_haunts_46fbc2",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_evp_recordings_9ee0fe",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_ghost_hunting_tools_ef37fb",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_grief_bereavement_6b6d10",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_harry_price_1ff1de",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_haunted_sounds_ecf02f",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_infrasound_7e4338",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_local_folklore_914f9e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_mary_queen_ghosts_996a8e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_memory_retelling_f9b48e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_old_buildings_0a3234",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_poltergeist_claims_6ad8be",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_psychical_research_860bf0",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_sensed_presence_fef880",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_sleep_paralysis_1fa85e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_suggestion_expectati_e4eab0",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_tourist_haunts_14de67",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_violent_deaths_9693fc",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_white_lady_legends_a3364d",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_home_checks_62807a_carbon_monoxide_haun_959035",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_home_checks_62807a_damp_mould_unease_026f59",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_home_checks_62807a_flickering_lights_wi_bc0273",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_home_checks_62807a_house_noises_footste_1d271c",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_home_checks_62807a_index",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_home_checks_62807a_loft_pests_scratchin_1f21a9",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37_home_checks_62807a_sleep_paralysis_bedr_714254",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_home_checks_62807a",
+        "to": "hauntings_b4cf37",
+        "type": "ancestor"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37",
+        "type": "parent"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_apparitions_percepti_1f52cf",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_belief_surveys_cab802",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_borley_rectory_76d632",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_carbon_monoxide_42c90c",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_child_witnesses_734eb4",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_cold_spots_atmospher_629401",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_enfield_poltergeist_736114",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_everyday_haunts_46fbc2",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_evp_recordings_9ee0fe",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_ghost_hunting_tools_ef37fb",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_grief_bereavement_6b6d10",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_harry_price_1ff1de",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_haunted_sounds_ecf02f",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_home_checks_62807a",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_infrasound_7e4338",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_local_folklore_914f9e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_mary_queen_ghosts_996a8e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_memory_retelling_f9b48e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_old_buildings_0a3234",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_poltergeist_claims_6ad8be",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_psychical_research_860bf0",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_roman_soldier_ghosts_5f87ff",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_sensed_presence_fef880",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_sleep_paralysis_1fa85e",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_suggestion_expectati_e4eab0",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_tourist_haunts_14de67",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_violent_deaths_9693fc",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_white_lady_legends_a3364d",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed_faces_in_ghost_photo_114deb",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed_ghost_photo_orbs_de3341",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed_index",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed_mist_vapour_ghost_ph_435f40",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed_motion_blur_appariti_8b0a5a",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed_reflection_ghost_fig_e26aa2",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed_spirit_photography_f_1a45ce",
+        "type": "child"
+      },
+      {
+        "from": "hauntings_b4cf37_ghost_photos_f51bed",
+        "to": "hauntings_b4cf37",
+        "type": "ancestor"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37",
+        "type": "parent"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_apparitions_percepti_1f52cf",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_belief_surveys_cab802",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_borley_rectory_76d632",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_carbon_monoxide_42c90c",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_child_witnesses_734eb4",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_cold_spots_atmospher_629401",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_enfield_poltergeist_736114",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_everyday_haunts_46fbc2",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_evp_recordings_9ee0fe",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_ghost_hunting_tools_ef37fb",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_ghost_photos_f51bed",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_grief_bereavement_6b6d10",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_harry_price_1ff1de",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_haunted_sounds_ecf02f",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_home_checks_62807a",
+        "type": "sibling"
+      },
+      {
+        "from": "hauntings_b4cf37_hoaxes_fraud_6bb26d",
+        "to": "hauntings_b4cf37_infrasound_7e4338",
+        "type": "sibling"
+      }
+    ]
+  }
+}
