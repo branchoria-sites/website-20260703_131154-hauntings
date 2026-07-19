@@ -8880,7 +8880,75 @@
   }
 
   function initPageActionButtons() {
-    return;
+    var copyLinkButtons = document.querySelectorAll("[data-page-copy-link]");
+    var copyCitationButtons = document.querySelectorAll("[data-page-copy-citation]");
+    var printButtons = document.querySelectorAll("[data-page-print]");
+    if (!copyLinkButtons.length && !copyCitationButtons.length && !printButtons.length) {
+      return;
+    }
+
+    function getCanonicalPageUrl() {
+      var canonical = document.querySelector('link[rel="canonical"]');
+      var rawUrl = canonical ? String(canonical.getAttribute("href") || "").trim() : "";
+      try {
+        var parsed = new URL(rawUrl || window.location.href, window.location.href);
+        parsed.hash = "";
+        return parsed.href;
+      } catch (err) {
+        return String(window.location.href || "").split("#")[0];
+      }
+    }
+
+    function buildPageCitation() {
+      var heading = document.querySelector(".article-hero h1, .article-content h1, h1");
+      var siteTitle = document.querySelector(".site-title-full")
+        || document.querySelector(".site-title-short")
+        || document.querySelector(".site-title");
+      var pageTitle = String(heading ? heading.textContent : document.title || "Untitled report")
+        .replace(/\s+/g, " ")
+        .trim();
+      var collectionTitle = String(siteTitle ? siteTitle.textContent : "")
+        .replace(/\s+/g, " ")
+        .trim();
+      var language = String(document.documentElement.lang || "en").trim() || "en";
+      var accessedLabel = language.toLowerCase().indexOf("fr") === 0 ? "consulté le" : "accessed";
+      var accessedDate = "";
+      try {
+        accessedDate = new Intl.DateTimeFormat(language, {
+          year: "numeric",
+          month: "long",
+          day: "numeric"
+        }).format(new Date());
+      } catch (err) {
+        accessedDate = new Date().toISOString().slice(0, 10);
+      }
+      var parts = [pageTitle];
+      if (collectionTitle && collectionTitle.toLowerCase() !== pageTitle.toLowerCase()) {
+        parts.push(collectionTitle);
+      }
+      parts.push(getCanonicalPageUrl());
+      return parts.join(". ") + " (" + accessedLabel + " " + accessedDate + ").";
+    }
+
+    function attachCopyAction(buttons, getValue, successMessageKey, successFallback) {
+      Array.prototype.forEach.call(buttons, function (button) {
+        button.addEventListener("click", function () {
+          copyTextToClipboard(getValue()).then(function () {
+            showPageActionToast(getUiString(successMessageKey, successFallback));
+          }).catch(function () {
+            showPageActionToast(getUiString("copy-failed", "Copy failed"));
+          });
+        });
+      });
+    }
+
+    attachCopyAction(copyLinkButtons, getCanonicalPageUrl, "link-copied", "Link copied");
+    attachCopyAction(copyCitationButtons, buildPageCitation, "citation-copied", "Citation copied");
+    Array.prototype.forEach.call(printButtons, function (button) {
+      button.addEventListener("click", function () {
+        window.print();
+      });
+    });
   }
 
   function initImageLightbox() {

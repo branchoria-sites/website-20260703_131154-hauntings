@@ -2105,6 +2105,17 @@ body.right-sidebar-collapsed .sidebar {
   line-height: 1.2;
 }
 
+a.article-hero-stat {
+  text-decoration: none;
+}
+
+a.article-hero-stat:hover,
+a.article-hero-stat:focus-visible {
+  border-color: color-mix(in srgb, var(--brand) 58%, var(--card-border) 42%);
+  background: color-mix(in srgb, var(--surface) 72%, var(--brand) 28%);
+  color: var(--heading);
+}
+
 .article-hero-highlights {
   display: grid;
   gap: 0.44rem;
@@ -3428,6 +3439,23 @@ body.left-sidebar-collapsed .page-tools {
 .page-tools-actions {
   display: grid;
   gap: 0.45rem;
+}
+
+.page-research-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.38rem;
+}
+
+.page-research-actions .page-action-button:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+
+.page-research-actions .page-action-button {
+  min-width: 0;
+  padding-inline: 0.54rem;
+  border-radius: 12px;
+  font-size: 0.76rem;
 }
 
 .page-toc-actions {
