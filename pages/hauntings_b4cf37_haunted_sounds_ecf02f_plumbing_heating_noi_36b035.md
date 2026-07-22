@@ -434,27 +434,10 @@ For many allegedly haunted noises, the explanation lies not in unseen visitors b
           <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
         </h4>
         <p class="fr-book-author">By Richard Wiseman</p>
-        
+
         <p class="fr-book-desc">Shows how ordinary events become paranormal narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Do-it-Yourself+Manual+Newly+Updated+Editors+Of+Family+Handyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Do-it-Yourself Manual Newly Updated on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YmifoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete Do-it-Yourself Manual Newly Updated" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Do-it-Yourself+Manual+Newly+Updated+Editors+Of+Family+Handyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Do-it-Yourself Manual Newly Updated">The Complete Do-it-Yourself Manual Newly Updated</a>
-        </h4>
-        <p class="fr-book-author">By Editors Of Family Handyman</p>
-        
-        <p class="fr-book-desc">Covers common household causes of mysterious noises.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Do-it-Yourself+Manual+Newly+Updated+Editors+Of+Family+Handyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -468,7 +451,7 @@ For many allegedly haunted noises, the explanation lies not in unseen visitors b
           <a href="https://www.amazon.com/s?k=The+Visual+Handbook+of+Building+and+Remodeling+Charlie+Wing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Handbook of Building and Remodeling">The Visual Handbook of Building and Remodeling</a>
         </h4>
         <p class="fr-book-author">By Charlie Wing</p>
-        
+
         <p class="fr-book-desc">Helps homeowners understand plumbing and heating systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Visual+Handbook+of+Building+and+Remodeling+Charlie+Wing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -494,9 +477,26 @@ For many allegedly haunted noises, the explanation lies not in unseen visitors b
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Science+of+Ghosts+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Science of Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oGS67QhECywC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Science of Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Science+of+Ghosts+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Ghosts">The Science of Ghosts</a>
+        </h4>
+        <p class="fr-book-author">By Joe Nickell</p>
+
+        <p class="fr-book-desc">Investigates ordinary causes behind strange events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Science+of+Ghosts+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Do+it+Yourself+Manual+Newly+Updated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Do it Yourself Manual Newly Updated</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+of+Building+and+Remodeling+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual of Building and Remodeling books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+of+Building+and+Remodeling+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual of Building and Remodeling books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Buildings+Stand+Up&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Buildings Stand Up</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

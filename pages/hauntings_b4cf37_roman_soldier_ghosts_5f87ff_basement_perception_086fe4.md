@@ -417,7 +417,7 @@ For that reason, cellar conditions are not merely background details in Roman so
           <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
         </h4>
         <p class="fr-book-author">By Oliver Sacks</p>
-        
+
         <p class="fr-book-desc">Explains unusual perceptions that can occur in challenging environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ For that reason, cellar conditions are not merely background details in Roman so
           <a href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory+Sean+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunting of Borley Rectory">The Haunting of Borley Rectory</a>
         </h4>
         <p class="fr-book-author">By Sean O&#x27;Connor</p>
-        
+
         <p class="fr-book-desc">Provides context for evaluating reported hauntings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory+Sean+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ For that reason, cellar conditions are not merely background details in Roman so
           <a href="https://www.amazon.com/s?k=The+Science+of+Ghosts+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Ghosts">The Science of Ghosts</a>
         </h4>
         <p class="fr-book-author">By Joe Nickell</p>
-        
+
         <p class="fr-book-desc">Examines natural explanations for ghost experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Science+of+Ghosts+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,16 +462,16 @@ For that reason, cellar conditions are not merely background details in Roman so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory.+A+critical+survey+of+the+evidence.+By+E.+J.+Dingwall%2C+Kathleen+M.+Goldney%2C+and+Trevor+H.+Hall.+%5BWith+reference+to+Harry+Price.+With+plates.%5D+Eric+John+Dingwall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunting of Borley Rectory. A critical survey of the evidence. By E. J. Dingwall, Kathleen M. Goldney, and Trevor H. Hall. [With reference to Harry Price. With plates.] on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory.+A+critical+survey+of+the+evidence.+By+E.+J.+Dingwall%2C+Kathleen+M.+Goldney%2C+and+Trevor+H.+Hall.+%5BWith+reference+to+Harry+Price.+With+plates.%5D+Eric+John+Dingwall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunting of Borley Rectory. A critical survey of the evidence. By E. J. Dingwall, Kathleen M. Goldney, and Trevor H. Hall. [With reference to Harry Price. With plates.]">The Haunting of Borley Rectory. A critical survey of the evid...</a>
+          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
         </h4>
-        <p class="fr-book-author">By Eric John Dingwall, Kathleen M. GOLDNEY et al.</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating reported hauntings.</p>
+        <p class="fr-book-author">By Deborah Blum</p>
+
+        <p class="fr-book-desc">Explores how unusual experiences are interpreted and investigated.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory.+A+critical+survey+of+the+evidence.+By+E.+J.+Dingwall%2C+Kathleen+M.+Goldney%2C+and+Trevor+H.+Hall.+%5BWith+reference+to+Harry+Price.+With+plates.%5D+Eric+John+Dingwall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

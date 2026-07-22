@@ -425,30 +425,13 @@ The goal is not to prove that a haunting is impossible. It is to determine wheth
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+%26+Decker+The+Complete+Guide+to+Wiring%2C+Updated+7th+Edition+Editors+of+Cool+Springs+Press&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black &amp; Decker The Complete Guide to Wiring, Updated 7th Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c95HDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Black &amp; Decker The Complete Guide to Wiring, Updated 7th Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Black+%26+Decker+The+Complete+Guide+to+Wiring%2C+Updated+7th+Edition+Editors+of+Cool+Springs+Press&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black &amp; Decker The Complete Guide to Wiring, Updated 7th Edition">Black &amp; Decker The Complete Guide to Wiring, Updated 7th Edition</a>
-        </h4>
-        <p class="fr-book-author">By Editors of Cool Springs Press</p>
-        
-        <p class="fr-book-desc">Directly addresses wiring faults and lighting problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Black+%26+Decker+The+Complete+Guide+to+Wiring%2C+Updated+7th+Edition+Editors+of+Cool+Springs+Press&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Your+House+Works+Charlie+Wing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Your House Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NkhmDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Your House Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=How+Your+House+Works+Charlie+Wing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Your House Works">How Your House Works</a>
         </h4>
         <p class="fr-book-author">By Charlie Wing</p>
-        
+
         <p class="fr-book-desc">Explains electrical systems and warning signs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+Your+House+Works+Charlie+Wing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,16 +442,16 @@ The goal is not to prove that a haunting is impossible. It is to determine wheth
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Do-it-Yourself+Manual+Newly+Updated+Editors+Of+Family+Handyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Do-it-Yourself Manual Newly Updated on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YmifoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete Do-it-Yourself Manual Newly Updated" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ycPbMnVfqooC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Do-it-Yourself+Manual+Newly+Updated+Editors+Of+Family+Handyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Do-it-Yourself Manual Newly Updated">The Complete Do-it-Yourself Manual Newly Updated</a>
+          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
         </h4>
-        <p class="fr-book-author">By Editors Of Family Handyman</p>
-        
-        <p class="fr-book-desc">Covers troubleshooting common household electrical issues.</p>
+        <p class="fr-book-author">By Richard Wiseman</p>
+
+        <p class="fr-book-desc">Encourages investigation of ordinary causes before paranormal ones.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Do-it-Yourself+Manual+Newly+Updated+Editors+Of+Family+Handyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -482,7 +465,7 @@ The goal is not to prove that a haunting is impossible. It is to determine wheth
           <a href="https://www.amazon.com/s?k=The+Science+of+Ghosts+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Ghosts">The Science of Ghosts</a>
         </h4>
         <p class="fr-book-author">By Joe Nickell</p>
-        
+
         <p class="fr-book-desc">Examines supposedly supernatural electrical phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Science+of+Ghosts+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -491,9 +474,26 @@ The goal is not to prove that a haunting is impossible. It is to determine wheth
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+%26+Decker+The+Complete+Guide+to+Wiring%2C+Updated+7th+Edition+Editors+of+Cool+Springs+Press&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black &amp; Decker The Complete Guide to Wiring, Updated 7th Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c95HDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Black &amp; Decker The Complete Guide to Wiring, Updated 7th Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Black+%26+Decker+The+Complete+Guide+to+Wiring%2C+Updated+7th+Edition+Editors+of+Cool+Springs+Press&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black &amp; Decker The Complete Guide to Wiring, Updated 7th Edition">Black &amp; Decker The Complete Guide to Wiring, Updated 7th Edition</a>
+        </h4>
+        <p class="fr-book-author">By Editors of Cool Springs Press</p>
+
+        <p class="fr-book-desc">BLACK+DECKER’s latest edition of the best-selling home-improvement book in North America for more than a decade is completely updated to...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Black+%26+Decker+The+Complete+Guide+to+Wiring%2C+Updated+7th+Edition+Editors+of+Cool+Springs+Press&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+%26+Decker+The+Complete+to+Wiring%2C+Updated+7th+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black &amp; Decker The Complete to Wiring, Updated 7th Edition books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Your+House+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Your House Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Do+it+Yourself+Manual+Newly+Updated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Do it Yourself Manual Newly Updated</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Your+House+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Your House Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Science+of+Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Science of Ghosts</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

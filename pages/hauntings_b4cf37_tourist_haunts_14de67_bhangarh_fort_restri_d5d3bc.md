@@ -365,7 +365,7 @@ Whether visitors view the rule as a sensible precaution or as evidence of someth
           <a href="https://www.amazon.com/s?k=Nine+Lives+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nine Lives">Nine Lives</a>
         </h4>
         <p class="fr-book-author">By William Dalrymple</p>
-        
+
         <p class="fr-book-desc">Explores belief, tradition and living folklore in India.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nine+Lives+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,16 +393,16 @@ Whether visitors view the rule as a sensible precaution or as evidence of someth
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FN_4DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Spite+of+the+Gods+Edward+Luce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Spite of the Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MNaCQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Spite of the Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+          <a href="https://www.amazon.com/s?k=In+Spite+of+the+Gods+Edward+Luce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Spite of the Gods">In Spite of the Gods</a>
         </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-        
-        <p class="fr-book-desc">Useful for understanding why famous sites acquire supernatural reputations.</p>
+        <p class="fr-book-author">By Edward Luce</p>
+
+        <p class="fr-book-desc">Provides cultural context for understanding modern Indian heritage sites and narratives.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=In+Spite+of+the+Gods+Edward+Luce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -416,7 +416,7 @@ Whether visitors view the rule as a sensible precaution or as evidence of someth
           <a href="https://www.amazon.com/s?k=Dark+Tourism+J.+John+Lennon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Tourism">Dark Tourism</a>
         </h4>
         <p class="fr-book-author">By J. John Lennon</p>
-        
+
         <p class="fr-book-desc">Directly relates to haunted destinations and visitor behavior.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dark+Tourism+J.+John+Lennon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Whether visitors view the rule as a sensible precaution or as evidence of someth
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nine+Lives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nine Lives</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=City+of+Djinns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">City of Djinns</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nine+Lives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nine Lives</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=City+of+Djinns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">City of Djinns</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Spite+of+the+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Spite of the Gods</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

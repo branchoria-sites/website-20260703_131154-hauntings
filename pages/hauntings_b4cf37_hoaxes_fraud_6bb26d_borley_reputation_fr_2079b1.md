@@ -398,7 +398,7 @@ In Borley's case, newspaper coverage, Harry Price's promotional skill, folklore 
           <a href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory+Sean+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunting of Borley Rectory">The Haunting of Borley Rectory</a>
         </h4>
         <p class="fr-book-author">By Sean O&#x27;Connor</p>
-        
+
         <p class="fr-book-desc">Primary source behind Borley&#x27;s enduring reputation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory+Sean+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,13 +426,13 @@ In Borley's case, newspaper coverage, Harry Price's promotional skill, folklore 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_J_YAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
         </h4>
         <p class="fr-book-author">By Deborah Blum</p>
-        
+
         <p class="fr-book-desc">Provides context for investigation, belief and controversy in haunting cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,16 +443,16 @@ In Borley's case, newspaper coverage, Harry Price's promotional skill, folklore 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory.+A+critical+survey+of+the+evidence.+By+E.+J.+Dingwall%2C+Kathleen+M.+Goldney%2C+and+Trevor+H.+Hall.+%5BWith+reference+to+Harry+Price.+With+plates.%5D+Eric+John+Dingwall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunting of Borley Rectory. A critical survey of the evidence. By E. J. Dingwall, Kathleen M. Goldney, and Trevor H. Hall. [With reference to Harry Price. With plates.] on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Most+Haunted+House+in+England+Harry+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Most Haunted House in England on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory.+A+critical+survey+of+the+evidence.+By+E.+J.+Dingwall%2C+Kathleen+M.+Goldney%2C+and+Trevor+H.+Hall.+%5BWith+reference+to+Harry+Price.+With+plates.%5D+Eric+John+Dingwall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunting of Borley Rectory. A critical survey of the evidence. By E. J. Dingwall, Kathleen M. Goldney, and Trevor H. Hall. [With reference to Harry Price. With plates.]">The Haunting of Borley Rectory. A critical survey of the evid...</a>
+          <a href="https://www.amazon.com/s?k=The+Most+Haunted+House+in+England+Harry+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Most Haunted House in England">The Most Haunted House in England</a>
         </h4>
-        <p class="fr-book-author">By Eric John Dingwall, Kathleen M. GOLDNEY et al.</p>
-        
-        <p class="fr-book-desc">Primary source behind Borley&#x27;s enduring reputation.</p>
+        <p class="fr-book-author">By Harry Price</p>
+
+        <p class="fr-book-desc">Central text in the creation of the Borley legend.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Haunting+of+Borley+Rectory.+A+critical+survey+of+the+evidence.+By+E.+J.+Dingwall%2C+Kathleen+M.+Goldney%2C+and+Trevor+H.+Hall.+%5BWith+reference+to+Harry+Price.+With+plates.%5D+Eric+John+Dingwall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Most+Haunted+House+in+England+Harry+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

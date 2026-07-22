@@ -352,89 +352,89 @@ For folklorists, the importance of these terms lies not in proving whether ghost
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Local Ghost Names Reveal. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Local Ghost Names Reveal. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dictionary+of+American+Regional+English%3A+Introduction+and+A-C+by+Frederic+G.+Cassidy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dictionary of American Regional English: Introduction and A-C on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UQwLAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dictionary of American Regional English: Introduction and A-C" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dictionary+of+American+Regional+English%3A+Introduction+and+A-C+by+Frederic+G.+Cassidy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dictionary of American Regional English: Introduction and A-C">Dictionary of American Regional English: Introduction and A-C</a>
-</h4>
-<p class="fr-book-author">By Frederic G. Cassidy, Joan Houston Hall et al.</p>
-        
-<p class="fr-book-desc">Explains regional words such as local names for ghosts and spirits.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dictionary+of+American+Regional+English%3A+Introduction+and+A-C+by+Frederic+G.+Cassidy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dictionary+of+American+Regional+English%3A+Introduction+and+A-C+Frederic+G.+Cassidy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dictionary of American Regional English: Introduction and A-C on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UQwLAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dictionary of American Regional English: Introduction and A-C" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dictionary+of+American+Regional+English%3A+Introduction+and+A-C+Frederic+G.+Cassidy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dictionary of American Regional English: Introduction and A-C">Dictionary of American Regional English: Introduction and A-C</a>
+        </h4>
+        <p class="fr-book-author">By Frederic G. Cassidy, Joan Houston Hall et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Discovering+American+Folklife+by+Don+Yoder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Discovering American Folklife on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AnfYAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Discovering American Folklife" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Discovering+American+Folklife+by+Don+Yoder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Discovering American Folklife">Discovering American Folklife</a>
-</h4>
-<p class="fr-book-author">By Don Yoder</p>
-        
-<p class="fr-book-desc">Shows how local speech preserves belief traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Discovering+American+Folklife+by+Don+Yoder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains regional words such as local names for ghosts and spirits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dictionary+of+American+Regional+English%3A+Introduction+and+A-C+Frederic+G.+Cassidy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Choking+Doberman%3A+And+Other+Urban+Legends+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Choking Doberman: And Other Urban Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OKFEnnfoUm8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Choking Doberman: And Other Urban Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Choking+Doberman%3A+And+Other+Urban+Legends+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Choking Doberman: And Other Urban Legends">The Choking Doberman: And Other Urban Legends</a>
-</h4>
-<p class="fr-book-author">By Jan Harold Brunvand</p>
-        
-<p class="fr-book-desc">Illustrates how oral traditions preserve distinctive local expressions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Choking+Doberman%3A+And+Other+Urban+Legends+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Treasury+of+British+Folklore+Dee+Dee+Chainey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Treasury of British Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nldOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Treasury of British Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Treasury+of+British+Folklore+Dee+Dee+Chainey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Treasury of British Folklore">A Treasury of British Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Dee Dee Chainey</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Study+of+American+Folklore+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Study of American Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Study+of+American+Folklore+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Study of American Folklore">The Study of American Folklore</a>
-</h4>
-<p class="fr-book-author">By Jan Harold Brunvand</p>
-        
-<p class="fr-book-desc">Connects storytelling traditions with regional culture and language.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Study+of+American+Folklore+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Contains examples of regional supernatural terminology and legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Treasury+of+British+Folklore+Dee+Dee+Chainey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dictionary+of+American+Regional+English%3A+and+A+C+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dictionary of American Regional English: and A C books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Discovering+American+Folklife&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Discovering American Folklife</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Choking+Doberman%3A+And+Other+Urban+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Choking Doberman: And Other Urban Legends</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Study+of+American+Folklore+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Study of American Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bb0J3VIs69UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Study of American Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Study+of+American+Folklore+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Study of American Folklore">The Study of American Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Jan Harold Brunvand</p>
+
+        <p class="fr-book-desc">Connects storytelling traditions with regional culture and language.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Study+of+American+Folklore+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Vanishing+Hitchhiker%3A+American+Urban+Legends+and+Their+Meanings+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vanishing Hitchhiker: American Urban Legends and Their Meanings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Vanishing+Hitchhiker%3A+American+Urban+Legends+and+Their+Meanings+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vanishing Hitchhiker: American Urban Legends and Their Meanings">The Vanishing Hitchhiker: American Urban Legends and Their Me...</a>
+        </h4>
+        <p class="fr-book-author">By Jan Harold Brunvand</p>
+
+        <p class="fr-book-desc">Illustrates how oral traditions preserve distinctive local expressions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Vanishing+Hitchhiker%3A+American+Urban+Legends+and+Their+Meanings+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dictionary+of+American+Regional+English%3A+and+A+C+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dictionary of American Regional English: and A C books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Treasury+of+British+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Treasury of British Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Study+of+American+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Study of American Folklore</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
