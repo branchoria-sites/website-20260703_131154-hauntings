@@ -456,7 +456,7 @@ Roman soldier ghost stories are a distinctive strand of British haunting folklor
 
 The important point is not that these stories prove ghosts exist. It is that they show how [hauntings]({{ 'hauntings/' | relative_url }}) become convincing when place, history and perception reinforce one another. A vague figure in a basement is easy to dismiss; a file of soldiers walking where a Roman road once ran is much harder to forget. That is why Roman soldier ghosts remain so powerful in the folklore of hauntings: they feel less like a random scare and more like a buried past briefly becoming visible.
 
-## What People Report
+## What visitors describe at Roman Soldiers
 
 The classic Roman soldier ghost story is not usually a conversational ghost, a warning spirit or a named dead person. It is more often a procession: marching feet, a column of soldiers, armour or weapons, a horse, a trumpet-like sound, or figures moving along a route that appears indifferent to modern walls and floors. In folklore terms, that makes these stories feel “recorded” rather than interactive, as if the witnesses have stumbled across a loop from another layer of the place.
 
@@ -486,7 +486,7 @@ The case also benefits from a good narrative contradiction. Some details in popu
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZrczSY55EF8" title="The Lost Harry Martindale Tapes | Ghosts of York&#x27;s Treasurers House | Ghosts Of York" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZrczSY55EF8" target="_blank" rel="noopener noreferrer">The Lost Harry Martindale Tapes | Ghosts of York&#x27;s Treasurers House | Ghosts Of York</a></p><p class="youtube-embed-meta">Channel: Ghost Quest TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZrczSY55EF8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZrczSY55EF8">Open on YouTube</a></p></div></div></div>
 
-## Natural Explanations to Check
+## Testing ordinary explanations for Roman Soldiers
 
 A careful reading of Roman soldier ghost stories should separate three questions: whether the place has real Roman archaeology, whether the witness sincerely had an unusual experience, and whether that experience requires a supernatural explanation. The first may be well supported, the second may be plausible, and the third remains unproven.
 

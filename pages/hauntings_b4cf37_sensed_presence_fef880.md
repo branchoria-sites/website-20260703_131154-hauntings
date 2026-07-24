@@ -458,7 +458,7 @@ The strongest evidence does not show that sensed presence is proof of a ghost. I
 
 That makes sensed presence one of the most useful haunting experiences to examine. It sits exactly where ghost stories, perception, place, and physiology meet.
 
-## What People Report
+## What visitors describe at Sensed Presence
 
 People who describe a sensed presence rarely present it as a vague mood. They often describe it as spatial, social, and directed: “someone is behind me”, “the room was not empty”, “I was [being watched]({{ 'being-watched/' | relative_url }})”, or “it felt as if a person had come in”. The important feature is that the “other” is felt as nearby even when there is no clear sight, voice, touch, or footprint.
 
@@ -495,7 +495,7 @@ The effect is especially plausible for sensed presence because it requires less 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dkGx67rQsEc" title="Why People See Ghosts (According to Neuroscience)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dkGx67rQsEc" target="_blank" rel="noopener noreferrer">Why People See Ghosts (According to Neuroscience)</a></p><p class="youtube-embed-meta">Channel: George Told Me</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dkGx67rQsEc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dkGx67rQsEc">Open on YouTube</a></p></div></div></div>
 
-## Natural Explanations to Check
+## Environmental and perceptual factors around Sensed Presence
 
 A careful haunting assessment should not begin by asking whether the witness is gullible. It should ask what conditions might have made the experience more likely. Sensed presence is often produced by a stack of small influences rather than one simple cause.
 
@@ -554,7 +554,7 @@ This helps explain why sensed presence is so durable in haunted places. It is ea
 
 <img src="{{ "/assets/images/hauntings_b4cf37_sensed_presence_fef880-Illustration-3-dark.svg" | relative_url }}" alt="Sensed Presence illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_sensed_presence_fef880-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_sensed_presence_fef880-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Persists
+## Why accounts of Sensed Presence endured
 
 Sensed presence persists because it offers a powerful middle ground between ordinary unease and a full ghost sighting. It is less vulnerable to debunking than a photograph, less dependent on sound recording than a voice, and more intimate than a cold spot. The witness’s own body becomes the evidence.
 

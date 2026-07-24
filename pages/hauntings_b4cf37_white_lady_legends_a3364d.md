@@ -454,7 +454,7 @@ The pattern matters because White Lady stories show how [hauntings]({{ 'haunting
 
 <img src="{{ "/assets/images/hauntings_b4cf37_white_lady_legends_a3364d-Illustration-3-dark.svg" | relative_url }}" alt="White Ladies illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_white_lady_legends_a3364d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_white_lady_legends_a3364d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What people report
+## What visitors describe at White Ladies
 
 White Lady reports usually begin with a visual impression. The figure is pale, silent or nearly silent, and her clothing is described as a [white dress]({{ 'white-dress/' | relative_url }}), robe, gown, veil, nightdress or bridal dress. She may appear at a window, cross a corridor, walk through a hall, stand near water, drift along a road, or vanish near a tower, staircase or burial place. In castle and manor-house legends, the sighting is often tied to one room or route, as though the ghost is replaying a fixed sorrow.
 
@@ -496,7 +496,7 @@ There is also a gendered pattern. Many White Lady legends centre on women whose 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aUqZhk-1z_k" title="Ghost Encounters: Bewitched by History: Berry Pomeroy Castle&#x27;s Haunting Legacy Beckons Brave Souls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aUqZhk-1z_k" target="_blank" rel="noopener noreferrer">Ghost Encounters: Bewitched by History: Berry Pomeroy Castle&#x27;s Haunting Legacy Beckons Brave Souls</a></p><p class="youtube-embed-meta">Channel: One Of Us</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aUqZhk-1z_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aUqZhk-1z_k">Open on YouTube</a></p></div></div></div>
 
-## Natural explanations to check
+## Environmental and perceptual factors around White Ladies
 
 A natural explanation does not have to dismiss every witness as dishonest. Many haunting reports are sincere experiences interpreted through the stories available in a particular place. The useful question is not only “Did someone see something?” but “What conditions made this the kind of thing a person could see, remember and describe as a White Lady?”
 
@@ -526,7 +526,7 @@ These checks do not “solve” every case. They help separate the experience fr
 
 <img src="{{ "/assets/images/hauntings_b4cf37_white_lady_legends_a3364d-Illustration-2-dark.svg" | relative_url }}" alt="White Ladies illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_white_lady_legends_a3364d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_white_lady_legends_a3364d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## Why accounts of White Ladies endured
 
 White Lady legends persist because they are easy to recognise, emotionally efficient and perfectly suited to haunted places. They need little explanation. A silent woman in white at a window immediately suggests death, loss and unfinished business. The image is simple enough for tourists and children to remember, yet flexible enough for local historians, ghost tour guides, paranormal investigators and heritage sites to retell in different ways.
 

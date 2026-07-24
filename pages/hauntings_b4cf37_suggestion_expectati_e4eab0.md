@@ -555,7 +555,7 @@ The “Haunt” project illustrates this nicely. Participants often reported unu
 
 <img src="{{ "/assets/images/hauntings_b4cf37_suggestion_expectati_e4eab0-Illustration-3-dark.svg" | relative_url }}" alt="Suggestion illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_suggestion_expectati_e4eab0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_suggestion_expectati_e4eab0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## How Suggestion entered popular memory
 
 Haunted-room stories persist because they are unusually good at turning ambiguity into memory. A room with a name, a legend and a repeated script gives visitors a way to interpret small sensations as part of something larger. Once enough people report similar feelings, the reports become part of the room’s reputation, and the reputation shapes later reports.
 

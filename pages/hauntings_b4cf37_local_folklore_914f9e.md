@@ -456,7 +456,7 @@ Ghost stories become local memory when repeated experiences, rumours and inherit
 
 That is why local folklore matters within [hauntings]({{ 'hauntings/' | relative_url }}). It explains why some ghost stories outlive the witnesses, why a place can become famous for an apparition no one can verify, and why communities often treat hauntings as informal history. Folklorists have long treated ghost stories as a way of connecting people to place, while heritage bodies continue to find that haunted sites draw visitors into histories they might otherwise ignore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.usu.edu/context/usupress_pubs/article/1017/viewcontent/Haunting_Experiences__Ghosts_in_Contemporary_Folklore.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.usu.edu">[digitalcommons.usu.edu+2OpenAIR@RGU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.usu.edu</span><span class="citation-popover-title">Haunting Experiences Ghosts in Contemporary Folklore</span><span class="citation-popover-snippet">Haunting Experiences: Ghosts in Contemporary Folkloreby DE Goldstein · 2007 · Cited by 211 — As a type of folklore, ghost stories can off...</span></span></span>
 
-## What People Report
+## Reported experiences around Local Folklore
 
 Local ghost stories usually begin with familiar claims: [footsteps]({{ 'footsteps/' | relative_url }}) in a corridor, a white figure at a window, a presence in a bedroom, a voice in an empty room, a smell linked to a past occupant, or a repeated sighting on a road, bridge or staircase. What turns such claims into folklore is not only the original report, but the way later tellers fit it into a place-name, a family memory, a historical tragedy or a public landmark.
 
@@ -486,7 +486,7 @@ The important lesson is not that every local ghost is historically reliable. It 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jVpmeDKpQHk" title="Mary, Queen of Scots - Haunted Staircase - The Talbot Hotel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jVpmeDKpQHk" target="_blank" rel="noopener noreferrer">Mary, Queen of Scots - Haunted Staircase - The Talbot Hotel</a></p><p class="youtube-embed-meta">Channel: sniff001</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jVpmeDKpQHk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jVpmeDKpQHk">Open on YouTube</a></p></div></div></div>
 
-## Natural Explanations To Check
+## Testing ordinary explanations for Local Folklore
 
 Taking folklore seriously does not require accepting every haunting as supernatural. In fact, local ghost stories become more useful when readers can separate the cultural meaning of a tale from the possible causes of particular experiences. A place may be important folklore even if a sighting has a mundane explanation.
 
@@ -506,7 +506,7 @@ None of these explanations “disprove” folklore. They clarify the difference 
 
 <img src="{{ "/assets/images/hauntings_b4cf37_local_folklore_914f9e-Illustration-2-dark.svg" | relative_url }}" alt="Local Folklore illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_local_folklore_914f9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_local_folklore_914f9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why The Story Persists
+## The cultural afterlife of Local Folklore
 
 A local ghost story persists when it does more social work than a simple historical plaque. It gives people a story to tell at the right moment: on a tour, at Halloween, during a sleepover, after a pub closing, on a walk past the old building, or when a new resident asks why no one likes a certain lane after dark.
 

@@ -470,7 +470,7 @@ Tourist cities can scale the same idea across streets rather than inside one bui
 
 <img src="{{ "/assets/images/hauntings_b4cf37_tourist_haunts_14de67-Illustration-1-dark.svg" | relative_url }}" alt="Tourist Haunts illustration 1" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_tourist_haunts_14de67-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_tourist_haunts_14de67-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What people report
+## What visitors describe at Tourist Haunts
 
 Public haunted attractions tend to feature a narrower set of repeated reports than private haunting cases. The stories are memorable because they can be attached to exact spaces: a staircase, a room, a chapel, a corridor, a tower, a vault or a gate that closes at night.
 
@@ -498,7 +498,7 @@ The Stanley Hotel’s case is different. Its haunted identity is reinforced by p
 
 <img src="{{ "/assets/images/hauntings_b4cf37_tourist_haunts_14de67-Illustration-2-dark.svg" | relative_url }}" alt="Tourist Haunts illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_tourist_haunts_14de67-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_tourist_haunts_14de67-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Natural explanations to check
+## Testing ordinary explanations for Tourist Haunts
 
 A good haunted-site visit can be atmospheric without treating every odd sensation as supernatural evidence. Old public buildings are full of ordinary causes that can feel extraordinary in the right setting, especially when visitors arrive primed to notice them.
 
@@ -517,7 +517,7 @@ The point is not to drain the pleasure from ghost tourism. It is to separate thr
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WIvQUoPTvhs" title="A Night In Bolsover Castle | Featuring Amy Lee33, Ashdubh and Speedy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WIvQUoPTvhs" target="_blank" rel="noopener noreferrer">A Night In Bolsover Castle | Featuring Amy Lee33, Ashdubh and Speedy</a></p><p class="youtube-embed-meta">Channel: English Heritage</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WIvQUoPTvhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WIvQUoPTvhs">Open on YouTube</a></p></div></div></div>
 
-## Why the story persists
+## How Tourist Haunts entered popular memory
 
 Haunted tourist sites persist because they solve a problem for heritage: they make the past feel immediate. A visitor may not remember a full dynastic timeline, but they will remember the place where a queen is said to walk headless, the hotel room linked to a famous horror novel, or the vault where a guide lowered their voice before describing a murder.
 

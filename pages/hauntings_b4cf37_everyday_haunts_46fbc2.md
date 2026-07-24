@@ -454,7 +454,7 @@ Haunted workplaces, pubs and everyday sites show that ghost reputations do not n
 
 <img src="{{ "/assets/images/hauntings_b4cf37_everyday_haunts_46fbc2-overview.webp" | relative_url }}" alt="Overview image for Everyday Haunts" loading="eager" decoding="sync" fetchpriority="high">
 
-## What people report
+## Reported experiences around Everyday Haunts
 
 In everyday haunts, the most striking feature is often not the drama of the report but its ordinariness. A landlord hears [footsteps]({{ 'footsteps/' | relative_url }}) after closing. A cleaner sees a figure in a corridor. A firefighter mistakes a shape in the yard for a person in waterproofs. A customer photographs a mirror and later notices an unexplained form behind them. These are not usually grand [apparitions]({{ 'apparitions/' | relative_url }}) performing a full historical scene. They are brief, uncertain experiences that become more meaningful because they happen in a building already known by staff, regulars and visitors.
 
@@ -494,7 +494,7 @@ Urban folklore research also helps explain why ordinary sites matter. Adam Hayâ€
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SBW6fjM_SGQ" title="The CREEPY Pub Where MULTIPLE GHOSTLY VICTIMS Haunt Every Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SBW6fjM_SGQ" target="_blank" rel="noopener noreferrer">The CREEPY Pub Where MULTIPLE GHOSTLY VICTIMS Haunt Every Room</a></p><p class="youtube-embed-meta">Channel: Don&#x27;t Scare Claire</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SBW6fjM_SGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SBW6fjM_SGQ">Open on YouTube</a></p></div></div></div>
 
-## Natural explanations to check
+## Environmental and perceptual factors around Everyday Haunts
 
 Natural explanations do not make a haunting story worthless. They make it more readable. A careful approach asks what else could produce the reported experience before treating the story as evidence of a ghost. This is especially important in workplaces and pubs because they contain machinery, heating systems, refrigeration, cellars, extraction fans, plumbing, shifting temperatures, long shifts, alcohol, fatigue and low light.
 
@@ -525,7 +525,7 @@ A sensible checklist for pubs and workplaces is therefore plain rather than para
 
 <img src="{{ "/assets/images/hauntings_b4cf37_everyday_haunts_46fbc2-Illustration-2-dark.svg" | relative_url }}" alt="Everyday Haunts illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_everyday_haunts_46fbc2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_everyday_haunts_46fbc2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## Why accounts of Everyday Haunts endured
 
 Haunted everyday sites persist because they are useful stories. They give a pub an identity, make a workplace memorable, add texture to a walking tour, explain awkward corners of a building, and turn otherwise ordinary maintenance problems into narrative. That does not mean everyone telling the story is cynical. More often, the story survives because it is enjoyable, socially sticky and flexible enough to absorb new incidents.
 

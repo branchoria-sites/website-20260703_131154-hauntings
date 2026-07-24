@@ -460,7 +460,7 @@ This matters for [hauntings]({{ 'hauntings/' | relative_url }}) because grief sh
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jmNhMAluYBc" title="Continuing Bonds: The Model + How it Applies with Dr Edith Steffen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jmNhMAluYBc" target="_blank" rel="noopener noreferrer">Continuing Bonds: The Model + How it Applies with Dr Edith Steffen</a></p><p class="youtube-embed-meta">Channel: The Grief Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jmNhMAluYBc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jmNhMAluYBc">Open on YouTube</a></p></div></div></div>
 
-## What People Report
+## Reported experiences around Grief
 
 Bereavement-related “ghost” experiences are usually intimate rather than theatrical. They often happen in ordinary places: the kitchen where someone used to make tea, the side of the bed they slept on, a favourite chair, a hallway, a garden, a car, or a room where the bereaved person has just woken. The most common form is not a full apparition but a [felt presence]({{ 'felt-presence/' | relative_url }}): the sense that the dead person is nearby, watching, accompanying, or somehow “there”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11097-020-09666-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Link Sensed presence without sensory qualities</span><span class="citation-popover-snippet">Link Sensed presence without sensory qualities</span></span></span>
 
@@ -497,7 +497,7 @@ This helps explain why bereavement-related hauntings often cluster around specif
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/II5CRfrI9dU" title="Dr Tara Swart: How Science Explains Signs From the Dead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=II5CRfrI9dU" target="_blank" rel="noopener noreferrer">Dr Tara Swart: How Science Explains Signs From the Dead</a></p><p class="youtube-embed-meta">Channel: Begin Again with Davina McCall</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=II5CRfrI9dU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=II5CRfrI9dU">Open on YouTube</a></p></div></div></div>
 
-## Natural Explanations to Check
+## Environmental and perceptual factors around Grief
 
 A grief-related ghost experience may be meaningful without being supernatural. The practical question is not whether the person “really felt it” — they often did — but what conditions might have shaped the experience. In bereavement, several natural explanations can overlap.
 
@@ -533,7 +533,7 @@ For hauntings, this distinction matters. A brief comforting sense that a dead pa
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/whiRKUq0OV0" title="After Death Communication: Life-Changing Encounters with the Departed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=whiRKUq0OV0" target="_blank" rel="noopener noreferrer">After Death Communication: Life-Changing Encounters with the Departed</a></p><p class="youtube-embed-meta">Channel: IANDS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=whiRKUq0OV0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=whiRKUq0OV0">Open on YouTube</a></p></div></div></div>
 
-## Why the Story Persists
+## Why accounts of Grief endured
 
 Bereavement ghost stories persist because they answer a human problem that facts alone cannot solve: how can someone be gone and still feel present? They give a shape to the contradiction at the heart of grief. The person has died, yet their routines, voice, influence, belongings and emotional place in the household remain. A haunting story turns that continuing presence into a narrative.
 

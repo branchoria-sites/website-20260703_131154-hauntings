@@ -456,7 +456,7 @@ Cold spots, odd smells and a heavy “haunted” atmosphere can make a ghost sto
 
 These atmospheric details matter because they are immediate. A person can argue with a story they have been told, but it is harder to dismiss a room that suddenly feels cold, stale, oppressive or wrong. Good [investigation]({{ 'investigation/' | relative_url }}) therefore starts not by mocking the feeling, but by asking what physical, medical and psychological mechanisms could have produced it.
 
-## What people report
+## What visitors describe at Atmosphere
 
 In haunting accounts, atmosphere often arrives before any apparition. A room “drops cold”; a corridor smells of roses, smoke, decay or damp; visitors feel [pressure]({{ 'pressure/' | relative_url }}) on the chest, tingling skin, dizziness, nausea, dread or the sensation that someone is standing close behind them. These details are especially persuasive when they appear to match a story already attached to the place: cigar smoke in a former gentleman’s room, perfume in a bedroom linked to a dead resident, a cold patch near a staircase, or a cellar that feels “oppressive”.
 
@@ -470,7 +470,7 @@ The atmosphere of a supposedly haunted room is usually a cluster, not a single s
 
 <img src="{{ "/assets/images/hauntings_b4cf37_cold_spots_atmospher_629401-Illustration-1-dark.svg" | relative_url }}" alt="Atmosphere illustration 1" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_cold_spots_atmospher_629401-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_cold_spots_atmospher_629401-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Natural explanations to check first
+## Testing ordinary explanations for Atmosphere
 
 A careful approach treats cold spots and smells as environmental clues before treating them as paranormal evidence. The question is not “did the witness feel something?” but “what else in this setting could have made that feeling happen?”
 
@@ -494,7 +494,7 @@ None of these checks proves that a particular haunting story is false. They do s
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zu-qUc-vBSM" title="The Silent Haunting: Infrasound and the Mechanics of Fear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zu-qUc-vBSM" target="_blank" rel="noopener noreferrer">The Silent Haunting: Infrasound and the Mechanics of Fear</a></p><p class="youtube-embed-meta">Channel: qdotai &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zu-qUc-vBSM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zu-qUc-vBSM">Open on YouTube</a></p></div></div></div>
 
-## Why the story persists
+## The cultural afterlife of Atmosphere
 
 Cold spots and strange smells persist in ghost stories because they sit in the middle ground between objective event and private feeling. A door slamming can be blamed on wind. A figure can be dismissed as mistaken perception. But a chill down the back, a smell of flowers in an empty room or a sudden pressure of dread feels personal and difficult to argue away.
 

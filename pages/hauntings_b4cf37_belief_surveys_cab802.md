@@ -456,7 +456,7 @@ Surveys suggest that ghost belief is not a fringe curiosity: it remains common e
 
 Those figures do not prove that any place is haunted. They do show why haunting stories travel so well. A rumour about [footsteps]({{ 'footsteps/' | relative_url }}) in a castle corridor, a shadow in a hotel room or voices in an old house lands in a public culture where many people are already open to the possibility.
 
-## What people report
+## What visitors describe at Belief Surveys
 
 Haunted-place surveys usually reveal two overlapping things: belief in ghosts as a general idea, and reports of experiences tied to a particular location. The second category is especially important for [hauntings]({{ 'hauntings/' | relative_url }}), because a haunting is normally understood as repeated strangeness associated with a house, workplace, hotel, castle, road, ruin or other site.
 
@@ -500,7 +500,7 @@ Haunted homes show the same mechanism in a more personal setting. Realtor.com’
 
 <img src="{{ "/assets/images/hauntings_b4cf37_belief_surveys_cab802-Illustration-2-dark.svg" | relative_url }}" alt="Belief Surveys illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_belief_surveys_cab802-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_belief_surveys_cab802-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Natural explanations to check
+## What investigators should rule out around Belief Surveys
 
 A careful approach to haunted places starts by taking reports seriously without assuming the cause is supernatural. The most useful question is not “Was it a ghost?” but “What could produce this experience in this place?”
 
@@ -530,7 +530,7 @@ The best reading is balanced: surveys show that haunted-place belief is socially
 
 <img src="{{ "/assets/images/hauntings_b4cf37_belief_surveys_cab802-Illustration-3-dark.svg" | relative_url }}" alt="Belief Surveys illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_belief_surveys_cab802-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_belief_surveys_cab802-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## Why accounts of Belief Surveys endured
 
 Haunted-place stories persist because they sit in a rare middle ground. They are specific enough to feel local — this staircase, this room, this inn, this castle, this road — but flexible enough to survive scepticism. A believer may treat the story as evidence of spirits. A sceptic may treat it as folklore, theatre, psychology or history. A tourist may not care either way if the story makes the place memorable.
 

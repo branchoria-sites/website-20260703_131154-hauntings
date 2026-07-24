@@ -460,7 +460,7 @@ The most useful way to read these legends is not to ask only “did a ghost appe
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FpUiuxBadYw" title="The Real History Behind Anne Boleyn’s Ghost | After Dark" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FpUiuxBadYw" target="_blank" rel="noopener noreferrer">The Real History Behind Anne Boleyn’s Ghost | After Dark</a></p><p class="youtube-embed-meta">Channel: History Hit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FpUiuxBadYw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FpUiuxBadYw">Open on YouTube</a></p></div></div></div>
 
-## What People Report
+## What visitors describe at Tragic Deaths
 
 Reports linked to violent historical deaths usually have a more dramatic shape than generic haunted-house claims. Instead of a vague cold spot or unexplained knock, the account often seems to replay a specific kind of crisis: [footsteps]({{ 'footsteps/' | relative_url }}) on a route to execution, screams from a corridor, soldiers still crossing a battlefield, a figure appearing near a staircase, a prison cell or a burial place. These details make the haunting feel anchored to an event_time_window: the fatal arrest, the battle, the murder, the disaster, the burial, or the supposed anniversary of the death.
 
@@ -510,7 +510,7 @@ The Queen’s House at Greenwich shows another kind of weak link. The Royal Muse
 
 <img src="{{ "/assets/images/hauntings_b4cf37_violent_deaths_9693fc-Illustration-2-dark.svg" | relative_url }}" alt="Tragic Deaths illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_violent_deaths_9693fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_violent_deaths_9693fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Natural Explanations to Check
+## What investigators should rule out around Tragic Deaths
 
 A violent backstory can make a place feel haunted before anything unexplained happens. That is why the first checks should be practical, environmental and historical rather than dramatic. The question is not “could this place have a tragic past?” but “what exactly was reported, and what else could produce that experience?”
 
@@ -532,7 +532,7 @@ Historical checking is equally important. A credible investigation should ask wh
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jvMnEP0FpJQ" title="Borley Rectory - &quot;The Most Haunted House in England&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jvMnEP0FpJQ" target="_blank" rel="noopener noreferrer">Borley Rectory - &quot;The Most Haunted House in England&quot;</a></p><p class="youtube-embed-meta">Channel: Mark Felton Productions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jvMnEP0FpJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jvMnEP0FpJQ">Open on YouTube</a></p></div></div></div>
 
-## Why the Story Persists
+## How Tragic Deaths entered popular memory
 
 Violent-death hauntings endure because they do cultural work. They give communities a way to talk about death without speaking only in the language of archives, monuments or [grief]({{ 'grief/' | relative_url }}). A ghost story can make a palace execution feel immediate, make a battlefield feel inhabited, or make a ruined building seem morally charged rather than merely old.
 

@@ -458,7 +458,7 @@ The safest first move is to look for risks that can harm people whether or not a
 
 A sensible home check does not “debunk” a haunting by assumption. It slows the interpretation down. It asks: what exactly happened, where, when, to whom, and what changed in the house at the same time?
 
-## What People Report
+## What visitors describe at Home Checks
 
 The experiences that make people say “this house feels haunted” are usually ordinary senses behaving in an extraordinary pattern. A noise happens in the same wall at night. A room feels colder than the rest of the house. A door opens by itself. Someone wakes unable to move and feels a presence beside the bed. Lights dim or flicker. A child hears scratching above the ceiling. A visitor smells something rotten or chemical where nobody else notices it.
 
@@ -504,7 +504,7 @@ Electrical problems are the next priority. A “ghost light” may simply be dan
 
 Damp and mould deserve the same serious treatment. They may not usually explain [apparitions]({{ 'apparitions/' | relative_url }}), but they can explain smells, discomfort, coughing, poor sleep and a general feeling of unwellness. UK government guidance says damp and mould primarily affect the airways and lungs, but can also affect the eyes and skin, and highlights the serious health risks of prolonged exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/damp-and-mould-understanding-and-addressing-the-health-risks-for-rented-housing-providers/understanding-and-addressing-the-health-risks-of-damp-and-mould-in-the-home--2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">understanding and addressing the health risks of damp and mould in the home 2</span><span class="citation-popover-snippet">understanding and addressing the health risks of damp and mould in the home 2</span></span></span> NHS Inform notes that moulds produce allergens and irritants, and that inhaling or touching mould spores can cause sneezing, a runny nose, red eyes, skin rash and asthma attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhsinform.scot/healthy-living/indoor-health/damp-and-mould-indoors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhsinform.scot">[NHS inform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhsinform.scot</span><span class="citation-popover-title">damp and mould indoors</span><span class="citation-popover-snippet">damp and mould indoors</span></span></span>
 
-## Natural Explanations to Check
+## Environmental and perceptual factors around Home Checks
 
 The aim is not to force every report into a mundane explanation. It is to remove common causes one by one, starting with the easiest and safest.
 
@@ -610,7 +610,7 @@ The strongest mundane explanation is one that predicts change. If the banging st
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uWjc0gaYlZk" title="Is Your Home Haunted? Common Spooky Signs and Their Real Explanations!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uWjc0gaYlZk" target="_blank" rel="noopener noreferrer">Is Your Home Haunted? Common Spooky Signs and Their Real Explanations!</a></p><p class="youtube-embed-meta">Channel: Diane Cardano:The Real Deal in Real Estate</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uWjc0gaYlZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uWjc0gaYlZk">Open on YouTube</a></p></div></div></div>
 
-## Why the Story Persists
+## Why accounts of Home Checks endured
 
 A home can be checked carefully and still feel haunted to the people who live there. That persistence is not always irrational. It often reflects how human memory, fear and place interact.
 

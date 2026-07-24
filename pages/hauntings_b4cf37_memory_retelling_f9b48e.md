@@ -460,7 +460,7 @@ This does not mean every witness is lying. Memory is reconstructive: later infor
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fdUC5Fsd_Y4" title="The psychology of the Ghost – what haunts us and why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fdUC5Fsd_Y4" target="_blank" rel="noopener noreferrer">The psychology of the Ghost – what haunts us and why</a></p><p class="youtube-embed-meta">Channel: Betwixt: The Story of You</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fdUC5Fsd_Y4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fdUC5Fsd_Y4">Open on YouTube</a></p></div></div></div>
 
-## What people report
+## Reported experiences around Retelling
 
 People rarely report a haunting in a vacuum. They report [footsteps]({{ 'footsteps/' | relative_url }}) in “the haunted wing”, a figure on “the staircase where someone died”, or a feeling of dread in “the room everyone avoids”. The place already has a script, and that script helps witnesses decide which details matter.
 
@@ -494,7 +494,7 @@ Repeated recall can also update memory. Northwestern research on retrieval-induc
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3RKDVB6qizA" title="The misinformation effect | Elizabeth Loftus | Nobel Prize Summit 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3RKDVB6qizA" target="_blank" rel="noopener noreferrer">The misinformation effect | Elizabeth Loftus | Nobel Prize Summit 2023</a></p><p class="youtube-embed-meta">Channel: Nobel Prize &middot; Views: 34.6K &middot; Uploaded: May 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3RKDVB6qizA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3RKDVB6qizA">Open on YouTube</a></p></div></div></div>
 
-## Natural explanations to check
+## What investigators should rule out around Retelling
 
 A haunted reputation should not be treated as proof that witnesses are dishonest, but it should change how claims are checked. The more famous a haunting becomes, the more likely people are to arrive primed, compare notes and interpret ordinary ambiguity through the legend.
 
@@ -537,7 +537,7 @@ The risk is that reputation flattens history. A murder becomes a spooky attracti
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/epXmFjTqWeU" title="False Memories and the Misinformation Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer">False Memories and the Misinformation Effect</a></p><p class="youtube-embed-meta">Channel: Bite-Sized Psychology &middot; Views: 14.3K &middot; Uploaded: July 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=epXmFjTqWeU">Open on YouTube</a></p></div></div></div>
 
-## Why the story persists
+## How Retelling entered popular memory
 
 Haunting stories persist because they do several jobs at once. They explain unease, give places personality, connect the present to the dead, entertain visitors and offer communities a memorable way to talk about danger, injustice or loss.
 

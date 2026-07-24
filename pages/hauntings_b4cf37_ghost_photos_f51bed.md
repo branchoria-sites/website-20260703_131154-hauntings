@@ -480,7 +480,7 @@ The weakness of orb evidence is that the same visual claim can be reproduced eas
 
 A practical rule follows: an orb is not strong evidence simply because it appears in a supposedly haunted place. In fact, haunted locations often make orb photographs more likely. They are commonly dark, dusty, old, visited at night, photographed with flash, and interpreted by people already looking for signs. The setting increases both the technical chance of an artefact and the psychological chance of reading it as meaningful.
 
-## Natural explanations to check first
+## Environmental and perceptual factors around Ghost Photos
 
 Most misleading ghost photographs are not caused by one grand trick. They come from ordinary small problems that become dramatic when placed inside a haunting story. The strongest first step is to ask what the camera, light and scene were doing before asking what the image might mean.
 
@@ -516,7 +516,7 @@ This history matters because it shows a recurring pattern. A new image technolog
 
 <img src="{{ "/assets/images/hauntings_b4cf37_ghost_photos_f51bed-Illustration-3-dark.svg" | relative_url }}" alt="Ghost Photos illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_ghost_photos_f51bed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_ghost_photos_f51bed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## Why accounts of Ghost Photos endured
 
 Ghost photos persist because they satisfy several needs at once. They are shareable, immediate and emotionally legible. A person can say, “Look what the camera caught,” instead of asking others to trust a private feeling. In haunting culture, a photograph turns an invisible claim into a visible object that can be posted, enlarged, circled, debated and attached to a place.
 

@@ -456,7 +456,7 @@ Bedroom [hauntings]({{ 'hauntings/' | relative_url }}) often begin with a scene 
 
 That does not mean every bedroom haunting report is “just sleep paralysis”. It means one high-risk category of night-time ghost report has a well-described natural mechanism. The most useful question is not whether the witness was sincere — many are — but whether the report has the fingerprints of a sleep-wake border state: immobility, bed setting, sensed presence, [chest pressure]({{ 'chest-pressure/' | relative_url }}), [shadow figures]({{ 'shadow-figures/' | relative_url }}), difficulty speaking, and a sudden end when the person fully wakes. Those features make sleep paralysis one of the first explanations to check before treating a bedroom encounter as evidence of an external haunting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/10487786/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Hypnagogic and hypnopompic hallucinations during sleep...by JA Cheyne · 1999 · Cited by 410 — Hypnagogic and hypnopompic experienc...</span></span></span>
 
-## What people report
+## What visitors describe at Sleep Paralysis
 
 The classic bedroom-haunting version of sleep paralysis is not simply “having a bad dream”. People often describe being awake, seeing the real room, and feeling trapped inside their body. NHS guidance describes sleep paralysis as being unable to move or speak while waking up or falling asleep; people may feel afraid, sense that someone is in the room, feel [pressure]({{ 'pressure/' | relative_url }}) on the chest, or have the episode last from seconds to several minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/conditions/sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">October 23, 2017 — A GP may be able to treat an underlying condition that could be triggering sleep paralysis such as insomnia or post-tr...</span><span class="citation-popover-meta">Published: October 23, 2017</span></span></span>
 
@@ -486,7 +486,7 @@ The bedroom also gives the experience a built-in witness problem. Sleep paralysi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UcM_1xcxVf8" title="A Waking Nightmare: The Enigma of Sleep Paralysis (Paranormal Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UcM_1xcxVf8" target="_blank" rel="noopener noreferrer">A Waking Nightmare: The Enigma of Sleep Paralysis (Paranormal Documentary)</a></p><p class="youtube-embed-meta">Channel: REALWOMEN/REALSTORIES</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UcM_1xcxVf8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UcM_1xcxVf8">Open on YouTube</a></p></div></div></div>
 
-## Natural explanations to check
+## Environmental and perceptual factors around Sleep Paralysis
 
 Sleep paralysis should be considered especially strongly when a bedroom haunting report has a cluster of sleep-state markers. The point is not to dismiss the witness, but to ask whether the episode fits a known pattern before treating it as external evidence.
 
@@ -543,7 +543,7 @@ For a haunting claim, this changes the risk assessment. If a person repeatedly s
 
 <img src="{{ "/assets/images/hauntings_b4cf37_sleep_paralysis_1fa85e-Illustration-3-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_sleep_paralysis_1fa85e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_sleep_paralysis_1fa85e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## The cultural afterlife of Sleep Paralysis
 
 Sleep paralysis persists in haunting culture because it produces exactly the kind of experience ghost stories are built from: a witness alone in a bedroom, a sudden presence, a body that will not respond, sensory details that feel external, and a vanishing figure. It is intimate, repeatable, hard to prove, and easy to interpret through whatever supernatural language the witness already knows.
 

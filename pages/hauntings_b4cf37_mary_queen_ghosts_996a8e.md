@@ -460,7 +460,7 @@ The interest of these legends is not that they prove Mary is a ghost. It is that
 
 <img src="{{ "/assets/images/hauntings_b4cf37_mary_queen_ghosts_996a8e-Illustration-3-dark.svg" | relative_url }}" alt="Mary Legends illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_mary_queen_ghosts_996a8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_mary_queen_ghosts_996a8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What people report
+## The witness accounts attached to Mary Legends
 
 Mary’s ghost is usually reported in places that can claim a real or alleged connection to her life, captivity or execution. The pattern is striking: the ghost is less often a random apparition than a repeated image of a queen still moving through the architecture of confinement.
 
@@ -494,7 +494,7 @@ There is also a useful ambiguity in the wording of many accounts. The stonework 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x2Dt2vNkFnY" title="Manor Lodge - Where Mary Queen of Scots was Held on a Sheffield Housing Estate 👑" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x2Dt2vNkFnY" target="_blank" rel="noopener noreferrer">Manor Lodge - Where Mary Queen of Scots was Held on a Sheffield Housing Estate 👑</a></p><p class="youtube-embed-meta">Channel: James &amp; Laura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x2Dt2vNkFnY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x2Dt2vNkFnY">Open on YouTube</a></p></div></div></div>
 
-## Natural explanations to check
+## Testing ordinary explanations for Mary Legends
 
 Mary ghost legends usually contain two separate claims: that Mary had a real connection to the place, and that unexplained experiences there are caused by her spirit. The first claim can often be checked against historical records. The second usually cannot be confirmed in the same way.
 
@@ -525,7 +525,7 @@ Costume is another clue. Mary’s ghosts are often described as wearing black, w
 
 <img src="{{ "/assets/images/hauntings_b4cf37_mary_queen_ghosts_996a8e-Illustration-2-dark.svg" | relative_url }}" alt="Mary Legends illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_mary_queen_ghosts_996a8e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_mary_queen_ghosts_996a8e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## The cultural afterlife of Mary Legends
 
 Mary, Queen of Scots is unusually well suited to ghost legend because she is both specific and flexible. She is specific enough to carry a recognisable biography: crowned as an infant, forced from Scotland, imprisoned, accused of plotting, executed by order of Elizabeth I. Yet she is flexible enough to be attached to many places, because her life genuinely involved movement through castles, palaces and prisons. Historic Environment Scotland’s Mary trail presents a sequence of places linked to her life, from Linlithgow Palace to Dundrennan Abbey, while Live Borders’ Mary Queen of Scots Visitor Centre in Jedburgh explicitly explores both her life and “the cult that has grown up around her story”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historicenvironment.scot/visit/things-to-see-and-do/mary-queen-of-scots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
 

@@ -460,7 +460,7 @@ The fairest reading is cautious in both directions. Children should not be dismi
 
 <img src="{{ "/assets/images/hauntings_b4cf37_child_witnesses_734eb4-Illustration-3-dark.svg" | relative_url }}" alt="Child Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_child_witnesses_734eb4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_child_witnesses_734eb4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What people report
+## Reported experiences around Child Witnesses
 
 In ordinary haunting reports, witnesses often describe apparitions, footsteps, cold spots or a sensed presence. Poltergeist reports are different because they usually involve disruption: knocking, thrown objects, furniture moving, fires, writing on walls, electrical faults, voices, or bedding and household items behaving strangely. The Society for [Psychical Research]({{ 'research-files/' | relative_url }}) places poltergeists near haunting cases, while noting that many such cases have been interpreted not as the activity of the dead but as effects somehow associated with living minds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/9-hauntings-and-poltergeists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[SPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Open source on spr.ac.uk.</span></span></span>
 
@@ -506,7 +506,7 @@ That is exactly the problem with many poltergeist cases. They rarely begin with 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-JPRCi6BPtw" title="The True Story of the Enfield Haunting / Poltergeist | The Conjuring 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-JPRCi6BPtw" target="_blank" rel="noopener noreferrer">The True Story of the Enfield Haunting / Poltergeist | The Conjuring 2</a></p><p class="youtube-embed-meta">Channel: Christina Randall</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-JPRCi6BPtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-JPRCi6BPtw">Open on YouTube</a></p></div></div></div>
 
-## Natural explanations to check
+## Environmental and perceptual factors around Child Witnesses
 
 The first task in a child-centred poltergeist case is not to decide whether the child is good or bad. It is to separate types of evidence. A report that a child heard knocking is different from an adult seeing a chair move. A photograph of an object in mid-air is different from footage showing how it began moving. A child’s statement immediately after an event is different from a dramatic retelling months later.
 
@@ -538,7 +538,7 @@ Psychological explanations also need care. Saying a case may involve stress, dis
 
 <img src="{{ "/assets/images/hauntings_b4cf37_child_witnesses_734eb4-Illustration-2-dark.svg" | relative_url }}" alt="Child Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_child_witnesses_734eb4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_child_witnesses_734eb4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## The cultural afterlife of Child Witnesses
 
 Child-centred poltergeist stories last because they combine three powerful ingredients: domestic intimacy, physical mystery and moral uncertainty. A ghost in a castle can feel distant; a child in a bedroom saying that furniture moved is harder to treat as mere [atmosphere]({{ 'atmosphere/' | relative_url }}). The reader or viewer is pulled into a family scene and asked to judge fear, trust and deception at the same time.
 

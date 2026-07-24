@@ -486,7 +486,7 @@ There are also broader international routes into the material. The Institut für
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XLOjat84q9o" title="Borley Rectory Part 1: The Ultimate Haunted House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XLOjat84q9o" target="_blank" rel="noopener noreferrer">Borley Rectory Part 1: The Ultimate Haunted House</a></p><p class="youtube-embed-meta">Channel: Uncanny</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XLOjat84q9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XLOjat84q9o">Open on YouTube</a></p></div></div></div>
 
-## What people report
+## Reported experiences around Research Files
 
 Haunting files usually preserve the raw experiences that later summaries compress. The recurring reports include apparitions, footsteps, raps, thrown objects, cold sensations, sudden fear, electrical oddities, voices, object disappearances and the feeling of a presence. In formal psychical research, the first task is often to separate the type of report before asking what caused it.
 
@@ -513,7 +513,7 @@ The value is not that every file proves a ghost. The value is that a later reade
 
 <img src="{{ "/assets/images/hauntings_b4cf37_psychical_research_860bf0-Illustration-2-dark.svg" | relative_url }}" alt="Research Files illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_psychical_research_860bf0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_psychical_research_860bf0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Natural explanations to check
+## What investigators should rule out around Research Files
 
 Psychical research societies sit in an awkward position. They receive reports from people who may feel frightened, bereaved, mocked or overwhelmed, but they also inherit a duty not to turn every anomaly into a spirit. The best files therefore keep possible normal explanations close to the witness material rather than treating them as an afterthought.
 
@@ -556,7 +556,7 @@ These disputed cases reveal three governance lessons. First, investigators can b
 
 <img src="{{ "/assets/images/hauntings_b4cf37_psychical_research_860bf0-Illustration-3-dark.svg" | relative_url }}" alt="Research Files illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_psychical_research_860bf0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_psychical_research_860bf0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## The cultural afterlife of Research Files
 
 Haunting files persist because they serve more than one public. Believers look for continuity, patterns and possible evidence of survival after death. Sceptics look for fraud, misperception and environmental causes. Historians look at grief, religion, class, media, domestic life, science and popular culture. Archivists look at provenance, preservation and access. Witnesses may simply want their experience taken seriously without being forced into a dramatic conclusion.
 

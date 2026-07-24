@@ -522,7 +522,7 @@ This is why old buildings attract not only ghost stories, but recurring ghost st
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jve3p0ws-nI" title="An Introduction to Paranormal Psychology - with Chris French" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jve3p0ws-nI" target="_blank" rel="noopener noreferrer">An Introduction to Paranormal Psychology - with Chris French</a></p><p class="youtube-embed-meta">Channel: The Royal Institution</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jve3p0ws-nI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jve3p0ws-nI">Open on YouTube</a></p></div></div></div>
 
-## Why the story persists
+## How Old Buildings entered popular memory
 
 Ghost stories persist in old buildings because they are useful as well as entertaining. They make heritage emotional. A visitor may forget a date, architect or ownership sequence, but remember the room where a guard saw a figure, the staircase linked to an executed queen, or the cellar where Roman soldiers were said to march.
 

@@ -456,7 +456,7 @@ Low-frequency sound can make some places feel uncanny, but it is best treated as
 
 The strongest version of the infrasound idea is modest: a fan, boiler, pipe, ventilation duct, wind resonance or traffic rumble may help produce eerie feelings in some settings. The weaker, more sensational version says infrasound neatly explains [apparitions]({{ 'apparitions/' | relative_url }}), poltergeists and every dramatic haunting claim. The evidence does not support that. Controlled studies show mixed results, and the most careful researchers tend to describe infrasound as one environmental factor among several, alongside suggestion, expectation, lighting, acoustics, memory and [local folklore]({{ 'local-folklore/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richardwiseman.com/resources/ghost-in-machine.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.com">[Richard Wiseman+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.com</span><span class="citation-popover-title">Richard Wiseman The Ghost in the Machine</span><span class="citation-popover-snippet">Using the first author&#x27;s own experience as an example, we...</span></span></span>
 
-## What People Report
+## Reported experiences around Infrasound
 
 People rarely report infrasound as “a low-frequency acoustic stimulus”. They report the human version of it: the room feels oppressive, the air feels heavy, the body feels uneasy, or a corner of the building seems to have a presence. In haunting accounts, these sensations often come before a more elaborate interpretation. Someone feels watched in a cellar, nervous in a corridor, cold and nauseous in a back room, or suddenly unwilling to stay in a place alone.
 
@@ -510,7 +510,7 @@ The best reading of the experimental record is therefore balanced: infrasound ca
 
 <img src="{{ "/assets/images/hauntings_b4cf37_infrasound_7e4338-Illustration-2-dark.svg" | relative_url }}" alt="Infrasound illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_infrasound_7e4338-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_infrasound_7e4338-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Natural Explanations to Check
+## What investigators should rule out around Infrasound
 
 In a supposedly haunted building, the practical question is not “is there infrasound somewhere?” Low-frequency noise is common. The better question is whether a specific source, level, timing and location match the experiences people report.
 
@@ -537,7 +537,7 @@ The wider public-health literature supports caution rather than panic. A systema
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n7SLxs4Mpo8" title="18.9 Hz: The Frequency of Fear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n7SLxs4Mpo8" target="_blank" rel="noopener noreferrer">18.9 Hz: The Frequency of Fear</a></p><p class="youtube-embed-meta">Channel: Music Corner &middot; Views: 473 &middot; Uploaded: March 2026 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n7SLxs4Mpo8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n7SLxs4Mpo8">Open on YouTube</a></p></div></div></div>
 
-## Why the Story Persists
+## How Infrasound entered popular memory
 
 The infrasound explanation persists because it is satisfying in two directions. For sceptics, it offers a concrete physical cause for spooky feelings without dismissing witnesses as liars. For believers, it can sound exotic enough to preserve the atmosphere of mystery: an invisible force, below hearing, moving through a building and affecting the body. Both versions are more memorable than “a mixture of vibration, expectation, architecture, darkness and prior belief”.
 

@@ -476,7 +476,7 @@ Borley also became famous because it was never allowed to settle into one interp
 
 <img src="{{ "/assets/images/hauntings_b4cf37_borley_rectory_76d632-Illustration-1-dark.svg" | relative_url }}" alt="Borley Rectory illustration 1" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_borley_rectory_76d632-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_borley_rectory_76d632-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What People Report
+## Reported experiences around Borley Rectory
 
 The Borley reports matter because they were varied. This was not one witness claiming one apparition. Across decades, the case gathered claims of figures, noises, moving objects, writing, scents, bells and poltergeist-like disturbances. That variety made the story compelling, but it also made the evidence harder to assess, because each type of report requires a different explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Borley Rectory – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Borley Rectory – Psi Encyclopedia</span></span></span>
 
@@ -494,7 +494,7 @@ Yet the reports were uneven. Some came from named witnesses; others depended on 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yZmeQnpdRfI" title="Borley Rectory: The Most Haunted House In Britain | Our Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yZmeQnpdRfI" target="_blank" rel="noopener noreferrer">Borley Rectory: The Most Haunted House In Britain | Our Life</a></p><p class="youtube-embed-meta">Channel: True Lives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yZmeQnpdRfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yZmeQnpdRfI">Open on YouTube</a></p></div></div></div>
 
-## Natural Explanations to Check
+## What investigators should rule out around Borley Rectory
 
 Borley is a useful cautionary case because the strongest question is not “Were people lying?” but “Which parts of this complicated story can survive ordinary checks?” The later critical debate identified several categories of explanation: building conditions, sound transmission, animals, expectation, memory distortion, deliberate trickery, publicity incentives and the difficulty of reconstructing events after years of retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Borley Rectory – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Borley Rectory – Psi Encyclopedia</span></span></span>
 
@@ -516,7 +516,7 @@ That leaves Borley in a more interesting position than a simple “real or fake�
 
 <img src="{{ "/assets/images/hauntings_b4cf37_borley_rectory_76d632-Illustration-2-dark.svg" | relative_url }}" alt="Borley Rectory illustration 2" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_borley_rectory_76d632-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_borley_rectory_76d632-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Persists
+## How Borley Rectory entered popular memory
 
 Borley persists because it feels complete as a haunted-house story even when its evidence looks unstable. It has a recognisable place, a memorable label, a named investigator, a ruined building, a ghostly nun, wall messages, rumours of buried remains, dramatic fire, rival investigators and later accusations. That combination gives readers a story they can retell, doubt, defend or adapt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Borley Rectory – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Borley Rectory – Psi Encyclopedia</span></span></span>
 

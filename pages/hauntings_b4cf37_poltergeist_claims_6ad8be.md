@@ -505,7 +505,7 @@ Enfield persists because neither side gets everything it wants. Sceptics can poi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v-WPEeZW8i0" title="The Ghost Hunter Who Doesn&#x27;t Believe in Ghosts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v-WPEeZW8i0" target="_blank" rel="noopener noreferrer">The Ghost Hunter Who Doesn&#x27;t Believe in Ghosts</a></p><p class="youtube-embed-meta">Channel: Great Big Story</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v-WPEeZW8i0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v-WPEeZW8i0">Open on YouTube</a></p></div></div></div>
 
-## Natural explanations to check first
+## Environmental and perceptual factors around Moving Objects
 
 The first rule in assessing moving-object claims is not to begin with ghosts, demons or psychokinesis. It is to begin with the object, the room and the circumstances. A good investigation asks what normal force could have acted on the object and whether that force was actually excluded.
 
@@ -567,7 +567,7 @@ The uncomfortable fact is that many famous cases become less clear when judged b
 
 <img src="{{ "/assets/images/hauntings_b4cf37_poltergeist_claims_6ad8be-Illustration-3-dark.svg" | relative_url }}" alt="Moving Objects illustration 3" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_poltergeist_claims_6ad8be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_poltergeist_claims_6ad8be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story persists
+## Why accounts of Moving Objects endured
 
 Moving-object stories persist because they occupy the most exciting middle ground in haunting lore. They are physical enough to feel stronger than a vague presence, but usually elusive enough to avoid final testing. A chair moves when no one is ready. A stone falls after the camera is pointed elsewhere. A crash is heard upstairs, but the room is reached after the event. The evidence is always almost there.
 

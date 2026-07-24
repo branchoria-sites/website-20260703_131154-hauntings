@@ -474,7 +474,7 @@ That does not mean every “ghost” symptom has to be carbon monoxide. Creaking
 
 <img src="{{ "/assets/images/hauntings_b4cf37_carbon_monoxide_42c90c-Illustration-1-dark.svg" | relative_url }}" alt="Carbon Monoxide illustration 1" data-theme-src-dark="{{ "/assets/images/hauntings_b4cf37_carbon_monoxide_42c90c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/hauntings_b4cf37_carbon_monoxide_42c90c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What people report
+## Reported experiences around Carbon Monoxide
 
 Carbon monoxide-linked haunting stories tend to include a distinctive mix of “spooky” and bodily symptoms. The eerie material may be what people remember later, but the physical details are often the clue that the case is not just a folklore story.
 
@@ -505,7 +505,7 @@ A later emergency-medicine example is often cited because it shows the same less
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LuM2bKgvc-g" title="Is There Any Truth to Ghosts and Hauntings?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LuM2bKgvc-g" target="_blank" rel="noopener noreferrer">Is There Any Truth to Ghosts and Hauntings?</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LuM2bKgvc-g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LuM2bKgvc-g">Open on YouTube</a></p></div></div></div>
 
-## Natural explanations to check first
+## Environmental and perceptual factors around Carbon Monoxide
 
 Carbon monoxide should be treated as a safety check, not as a rhetorical trick for winning arguments about ghosts. The point is not to tell frightened people that they are foolish. The point is to act on warning signs while there is still time.
 
@@ -535,7 +535,7 @@ The psychiatric and neurological literature also shows why the effects can be me
 
 This is why carbon monoxide should be understood as a mechanism of vulnerability, not a single guaranteed hallucination trigger. It can make the brain less reliable, the body unwell and the setting more frightening. In a house already primed as “haunted”, that may be enough for ordinary ambiguity to become a supernatural experience.
 
-## Why the story persists
+## The cultural afterlife of Carbon Monoxide
 
 The carbon-monoxide ghost story persists because it is both useful and easy to overstate. It offers a satisfyingly concrete explanation for some haunted-house accounts: invisible gas, faulty appliance, frightened witnesses, medical symptoms, repairs, and the haunting stops. That narrative is memorable because it turns the ghost into a warning sign.
 
