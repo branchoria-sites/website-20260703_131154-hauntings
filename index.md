@@ -4566,6 +4566,88 @@ site_image_description: An old house hallway with a half-open door, cold-looking
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books behind the reports on this site — hauntings, ghost cases, and the investigations behind them. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+by+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: In Search of a Haunted Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDeQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghostland: In Search of a Haunted Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+by+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
+</h4>
+<p class="fr-book-author">By Edward Parnell</p>
+        
+<p class="fr-book-desc">Shows how haunting stories become embedded in public memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+by+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunting+of+Hill+House+Shirley+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunting of Hill House on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=shamoNc-gg4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Haunting of Hill House" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Haunting+of+Hill+House+Shirley+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunting of Hill House">The Haunting of Hill House</a>
+        </h4>
+        <p class="fr-book-author">By Shirley Jackson</p>
+
+        <p class="fr-book-desc">Captures many themes that make hauntings feel real and persuasive.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Haunting+of+Hill+House+Shirley+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Book+of+English+Ghost+Stories+Michael+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Book of English Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BjoeAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Oxford Book of English Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Book+of+English+Ghost+Stories+Michael+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Book of English Ghost Stories">The Oxford Book of English Ghost Stories</a>
+        </h4>
+        <p class="fr-book-author">By Michael Cox, R. A. Gilbert</p>
+
+        <p class="fr-book-desc">Provides cultural context for recurring haunting narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Book+of+English+Ghost+Stories+Michael+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FN_4DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+        </h4>
+        <p class="fr-book-author">By Colin Dickey</p>
+        
+        <p class="fr-book-desc">Shows how location and narrative shape apparition reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=haunted+places+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted places</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=ghost+hunting+investigation+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost investigations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=poltergeist+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Poltergeist cases</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
 </div>
 </section>
 
